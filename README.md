@@ -7,6 +7,7 @@
 
 | App               | URL Scheme    | Reference                    |
 | :---------------- | :------------ | :--------------------------- |
+| [DiDi][8]         | `diditaxi://` |                              |
 | [MWeb][7]         | `mweb://`     |                              |
 | [Pocket Casts][1] | `pktc://open` | [Third party integration][2] |
 | [Todoist][3]      | `todoist://`  |                              |
@@ -22,3 +23,4 @@
 [5]: https://work.weixin.qq.com/
 [6]: https://weixin.qq.com/
 [7]: https://www.mweb.im/
+[8]: https://www.didiglobal.com/
