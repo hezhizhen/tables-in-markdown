@@ -26,3 +26,7 @@
 [7]: https://www.mweb.im/
 [8]: https://www.didiglobal.com/
 [9]: https://www.eudic.net/v4/en/app/eudic
+
+## References
+
+- [常用 URL Schemes 收集。](https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2)
