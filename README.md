@@ -7,6 +7,7 @@
 
 | App               | URL Scheme    | Reference                    |
 | :---------------- | :------------ | :--------------------------- |
+| [MWeb][7]         | `mweb://`     |                              |
 | [Pocket Casts][1] | `pktc://open` | [Third party integration][2] |
 | [Todoist][3]      | `todoist://`  |                              |
 | [Vivaldi][4]      | `vivaldi://`  |                              |
@@ -20,3 +21,4 @@
 [4]: https://vivaldi.com/
 [5]: https://work.weixin.qq.com/
 [6]: https://weixin.qq.com/
+[7]: https://www.mweb.im/
