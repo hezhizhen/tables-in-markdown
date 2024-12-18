@@ -8,6 +8,7 @@
 | App               | URL Scheme    | Reference                    |
 | :---------------- | :------------ | :--------------------------- |
 | [DiDi][8]         | `diditaxi://` |                              |
+| [Eudic][9]        | `eudic://`    |                              |
 | [MWeb][7]         | `mweb://`     |                              |
 | [Pocket Casts][1] | `pktc://open` | [Third party integration][2] |
 | [Todoist][3]      | `todoist://`  |                              |
@@ -24,3 +25,4 @@
 [6]: https://weixin.qq.com/
 [7]: https://www.mweb.im/
 [8]: https://www.didiglobal.com/
+[9]: https://www.eudic.net/v4/en/app/eudic
