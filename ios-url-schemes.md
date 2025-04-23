@@ -13,7 +13,6 @@
 | [WeChat][6]       | `wechat://`   |                              |
 | [WeCom][5]        | `wxwork://`   |                              |
 
-
 [1]: https://pocketcasts.com/
 [2]: https://support.pocketcasts.com/knowledge-base/how-can-i-use-pocket-casts-with-apps-like-launch-center/
 [3]: https://todoist.com/
