@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#csv-selector {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#csv-selector label {
+    margin-right: 10px;
+}
+
+#csv-dropdown {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+#table-container {
+    margin-top: 20px;
+    overflow-x: scroll; /* Ensures scrollbar is always visible if content overflows */
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%; /* Adjusted width */
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px; /* Increased padding */
+    text-align: left;
+    white-space: nowrap; /* Prevent text wrapping */
+}
+
+th {
+    background-color: #e9e9e9; /* Lighter header background */
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f1f1f1;
+}
+
+#csv-list-container {
+    text-align: center; /* Centers the inline or inline-block children */
+}
+
+#csv-list-container ul {
+    /* list-style-type: none; */ /* Removes default bullet points - Commented out to keep bullet points */
+    padding: 0; /* Removes default padding */
+    display: inline-block; /* Allows the ul to be centered by text-align on parent */
+    text-align: left; /* Aligns the text within list items to the left */
+}
