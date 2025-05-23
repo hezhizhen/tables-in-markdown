@@ -1,7 +1,25 @@
 #!/usr/bin/env bash
 
 # 使用 yt-dlp 获取 bilibili 视频信息并添加到 CSV 文件的脚本
-# 使用方法: ./add_bilibili.sh <视频URL> [标签]
+# 使用方法: ./add_bilibili.sh [--debug] <视频URL> [标签]
+
+DEBUG_MODE="false"
+POSITIONAL_ARGS=()
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+    --debug)
+        DEBUG_MODE="true"
+        shift # past argument
+        ;;
+    *)
+        POSITIONAL_ARGS+=("$1") # save positional arg
+        shift                   # past argument
+        ;;
+    esac
+done
+
+# Restore positional arguments
+set -- "${POSITIONAL_ARGS[@]}"
 
 # 启用调试日志函数
 log_info() {
@@ -9,23 +27,18 @@ log_info() {
 }
 
 log_debug() {
-    echo "[DEBUG] $1"
+    if [ "$DEBUG_MODE" = "true" ]; then
+        echo "[DEBUG] $1"
+    fi
 }
 
-log_error() {
-    echo "[ERROR] $1" >&2
-}
-
-log_success() {
-    echo "[SUCCESS] $1"
-}
-
-# 记录脚本开始执行
-log_info "脚本开始执行于 $(date '+%Y-%m-%d %H:%M:%S')"
+if [ "$DEBUG_MODE" = "true" ]; then
+    log_debug "调试模式已启用"
+fi
 
 # 步骤 1: 读取 URL
 if [ $# -lt 1 ]; then
-    log_error "用法: ./add_bilibili.sh <bilibili视频URL> [标签]"
+    log_info "❌ 用法: ./add_bilibili.sh [--debug] <bilibili视频URL> [标签]"
     exit 1
 fi
 
@@ -44,7 +57,7 @@ fi
 
 # 验证 URL 是否为 bilibili 视频链接
 if [[ ! "$url" =~ bilibili\.com/video/ ]]; then
-    log_error "错误: URL 必须是 bilibili.com/video/ 格式"
+    log_info "❌ 错误: URL 必须是 bilibili.com/video/ 格式"
     exit 1
 fi
 
@@ -52,7 +65,7 @@ log_debug "URL 格式验证通过"
 
 # 检查 yt-dlp 是否安装
 if ! command -v yt-dlp &>/dev/null; then
-    log_error "yt-dlp 未安装。请先安装 yt-dlp: brew install yt-dlp"
+    log_info "❌ yt-dlp 未安装。请先安装 yt-dlp: brew install yt-dlp"
     exit 1
 fi
 
@@ -70,13 +83,13 @@ log_debug "yt-dlp 获取标题状态: $yt_dlp_title_status"
 log_debug "yt-dlp 原始标题输出: $title"
 
 if [ $yt_dlp_title_status -ne 0 ]; then
-    log_error "yt-dlp 获取标题失败: $title"
+    log_info "❌ yt-dlp 获取标题失败: $title"
     exit 1
 fi
 
 # 移除标题中可能存在的 ANSI 转义序列 (虽然 yt-dlp 通常不输出这个，但以防万一)
 title=$(echo "$title" | sed $'s/\x1b\\[[0-9;]*m//g')
-log_success "成功获取标题: $title"
+log_info "✅ 成功获取标题: $title"
 
 # 获取上传日期 (格式 YYYYMMDD)
 log_debug "执行 yt-dlp --print upload_date \"$url\""
@@ -87,7 +100,7 @@ log_debug "yt-dlp 获取日期状态: $yt_dlp_date_status"
 log_debug "yt-dlp 原始日期输出: $upload_date_raw"
 
 if [ $yt_dlp_date_status -ne 0 ]; then
-    log_error "yt-dlp 获取上传日期失败: $upload_date_raw"
+    log_info "❌ yt-dlp 获取上传日期失败: $upload_date_raw"
     # 如果获取日期失败，可以将 uploaded 设为空字符串或采取其他错误处理
     uploaded=""
     log_debug "上传日期获取失败，设置为空"
@@ -101,7 +114,7 @@ else
         month=${upload_date_raw:4:2}
         day=${upload_date_raw:6:2}
         uploaded="$year-$month-$day"
-        log_success "成功获取并格式化上传日期: $uploaded"
+        log_info "✅ 成功获取并格式化上传日期: $uploaded"
     fi
 fi
 
@@ -133,31 +146,8 @@ echo "$csv_line" >>bilibili.csv
 write_status=$?
 
 if [ $write_status -eq 0 ]; then
-    log_success "✅ 成功添加到 bilibili.csv"
-
-    # 可选: 重新生成HTML页面
-    if command -v make &>/dev/null; then
-        log_info "正在更新HTML页面..."
-        make generate_pages &>/dev/null
-        make_status=$?
-
-        if [ $make_status -eq 0 ]; then
-            log_success "✅ HTML页面已更新"
-        else
-            log_error "⚠️ HTML页面更新失败 (错误码: $make_status)，请手动运行 'make generate_pages'"
-        fi
-    else
-        log_debug "未找到make命令，跳过HTML更新"
-    fi
-
-    # 显示文件的最后几行，确认添加成功
-    log_debug "bilibili.csv 的最后几行:"
-    tail -3 bilibili.csv | while read line; do
-        log_debug "CSV: $line"
-    done
+    log_info "✅ 成功添加到 bilibili.csv"
 else
-    log_error "❌ 写入CSV文件失败 (错误码: $write_status)"
+    log_info "❌ 写入CSV文件失败 (错误码: $write_status)"
     exit 1
 fi
-
-log_info "脚本执行完毕于 $(date '+%Y-%m-%d %H:%M:%S')"
