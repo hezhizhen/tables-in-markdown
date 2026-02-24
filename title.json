@@ -2,5 +2,6 @@
   "bilibili.csv": "Bilibili Videos",
   "car.csv": "Electric Cars",
   "ios-url-schemes.csv": "iOS URL Schemes",
-  "poe.csv": "Poe Bots"
+  "poe.csv": "Poe Bots",
+  "poe-v2.csv": "Poe Rates"
 }
