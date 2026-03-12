@@ -2,7 +2,10 @@ Bot,Input Rate (points/1k tokens), Output Rate (points/1k token)
 https://poe.com/Claude-Opus-4.6,142,709
 https://poe.com/Claude-Sonnet-4.6,85,425
 https://poe.com/Claude-Haiku-4.5,29,142
+https://poe.com/GPT-5.4-Pro,900,5400
+https://poe.com/GPT-5.4,75,450
 https://poe.com/GPT-5.3-Codex,53,420
+https://poe.com/GPT-5.3-Instant,53,420
 https://poe.com/GPT-5.2,53,420
 https://poe.com/GPT-5.2-Codex,53,420
 https://poe.com/GPT-5.2-Pro,630,5040
