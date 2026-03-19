@@ -38,7 +38,7 @@ fi
 
 # 步骤 1: 读取 URL
 if [ $# -lt 1 ]; then
-    log_info "❌ 用法: ./add_bilibili.sh [--debug] <bilibili视频URL> [标签]"
+    log_info "❌ 用法: ./tools/add_bilibili.sh [--debug] <bilibili视频URL> [标签]"
     exit 1
 fi
 
@@ -135,18 +135,18 @@ csv_line="\"$title\",$url,$uploaded,$tags"
 log_debug "生成的CSV行: $csv_line"
 
 # 检查bilibili.csv文件是否存在
-if [ ! -f "bilibili.csv" ]; then
-    log_debug "bilibili.csv不存在，创建新文件并添加标题行"
-    echo "Title,URL,Uploaded,Tags" >bilibili.csv
+if [ ! -f "data/bilibili.csv" ]; then
+    log_debug "data/bilibili.csv不存在，创建新文件并添加标题行"
+    echo "Title,URL,Uploaded,Tags" >data/bilibili.csv
 fi
 
 # 写入到bilibili.csv文件的末尾
-log_debug "写入数据到 bilibili.csv"
-echo "$csv_line" >>bilibili.csv
+log_debug "写入数据到 data/bilibili.csv"
+echo "$csv_line" >>data/bilibili.csv
 write_status=$?
 
 if [ $write_status -eq 0 ]; then
-    log_info "✅ 成功添加到 bilibili.csv"
+    log_info "✅ 成功添加到 data/bilibili.csv"
 else
     log_info "❌ 写入CSV文件失败 (错误码: $write_status)"
     exit 1
