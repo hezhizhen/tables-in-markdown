@@ -1,0 +1,13 @@
+version: '3'
+
+tasks:
+  default:
+    desc: Show available tasks
+    cmds:
+      - task --list
+
+  serve:
+    desc: Start a local HTTP server
+    cmds:
+      - open http://localhost:8000/
+      - python3 -m http.server 8000
