@@ -4,10 +4,9 @@ Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.3,21,"text, image",9
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.3,21,"text, image",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.85,4.3,"text, image",192000,64000,2025-10-15
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.6,13,"text, image",983040,32768,2025-09-26
-Empirio Labs AI,MiMo-V2-Omni,https://poe.com/mimo-v2-omni,0,0,text,,,2026-03-20
 Empirio Labs AI,MiMo-V2-Flash-EL,https://poe.com/mimo-v2-flash-el,0,0,text,,,2026-03-20
 Empirio Labs AI,MiMo-V2-Pro,https://poe.com/mimo-v2-pro,0,0,text,,,2026-03-19
-Empirio Labs AI,Mistral-Small-4,https://poe.com/mistral-small-4,0,0,text,,,2026-03-18
+Empirio Labs AI,Mistral-Small-4,https://poe.com/mistral-small-4,0,0,"text, image",,,2026-03-18
 Empirio Labs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.31,2.5,"text, image, video",,,2026-03-06
 Empirio Labs AI,Qwen3.5-Flash,https://poe.com/qwen3.5-flash,0,0,"text, video",,,2026-02-24
 Empirio Labs AI,Perplexity-Search,https://poe.com/perplexity-search,0,0,text,,,2026-02-22
@@ -48,7 +47,6 @@ Novita AI,GLM-4.6,https://poe.com/glm-4.6,0.55,2.2,text,,,2025-09-30
 Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,0,0,text,,,2025-09-29
 Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0,0,text,,,2025-09-24
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0,0,text,,,2025-09-24
-Novita AI,DeepSeek-V3.1-TM,https://poe.com/deepseek-v3.1-tm,0,0,text,,,2025-09-22
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.68,4,"text, image",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.18,1.1,"text, image",400000,128000,2026-03-11
 OpenAI,GPT-5.3-Codex-Spark,https://poe.com/gpt-5.3-codex-spark,0,0,text,128000,16384,2026-03-04
