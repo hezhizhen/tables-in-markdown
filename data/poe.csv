@@ -19,7 +19,7 @@ Empirio Labs AI,Exa-Answer,https://poe.com/exa-answer,0,0,text,,,2025-11-26
 Empirio Labs AI,Exa-Search,https://poe.com/exa-search,0,0,text,,,2025-11-26
 Empirio Labs AI,Exa-Research,https://poe.com/exa-research,0,0,text,,,2025-11-26
 Empirio Labs AI,Qwen3-Max-Preview,https://poe.com/qwen3-max-preview,1.1,4.8,text,,,2025-11-24
-Empirio Labs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,0,0,text,,,2025-11-21
+Empirio Labs AI,PPLX-Pro-Search,https://poe.com/pplx-pro-search,0,0,text,,,2025-11-21
 Empirio Labs AI,GPTZero,https://poe.com/gptzero,0,0,text,,,2025-10-31
 Empirio Labs AI,Manus,https://poe.com/manus,0,0,text,,,2025-10-28
 Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,0,0,text,,,2026-01-27
@@ -63,10 +63,8 @@ OpenAI,GPT-5.1-Codex,https://poe.com/gpt-5.1-codex,1.1,9,"text, image",400000,12
 OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1,9,"text, image",400000,128000,2025-11-12
 OpenAI,GPT-5.1-Codex-Mini,https://poe.com/gpt-5.1-codex-mini,0.22,1.8,text,400000,128000,2025-11-12
 OpenAI,GPT-5-Pro,https://poe.com/gpt-5-pro,14,110,"text, image",400000,128000,2025-10-06
-OpenAI,GPT-5-Codex,https://poe.com/gpt-5-codex,1.1,9,"text, image",400000,128000,2025-09-23
 Poe Tools,Claude-Code,https://poe.com/claude-code,0,0,text,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,0,0,text,,,2025-10-06
-Poe Tools,App-Creator,https://poe.com/app-creator,0,0,text,,,2025-09-23
 Together AI,Qwen3.5-397B-A17B-T,https://poe.com/qwen3.5-397b-a17b-t,0,0,text,,,2026-02-17
 Together AI,MiniMax-M2.5-T,https://poe.com/minimax-m2.5-t,0,0,text,,,2026-02-17
 Together AI,Qwen-3-Coder-Next-T,https://poe.com/qwen-3-coder-next-t,0,0,text,,,2026-02-06
