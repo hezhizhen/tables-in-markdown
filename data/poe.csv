@@ -3,11 +3,10 @@ Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.6,13,"text, imag
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.3,21,"text, image",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.3,21,"text, image",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.85,4.3,"text, image",192000,64000,2025-10-15
-Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.6,13,"text, image",983040,32768,2025-09-26
-Empirio Labs AI,MiMo-V2-Flash-EL,https://poe.com/mimo-v2-flash-el,0,0,text,,,2026-03-20
 Empirio Labs AI,MiMo-V2-Omni,https://poe.com/mimo-v2-omni,0,0,text,,,2026-03-20
-Empirio Labs AI,MiMo-V2-Pro,https://poe.com/mimo-v2-pro,0,0,text,,,2026-03-19
-Empirio Labs AI,Mistral-Small-4,https://poe.com/mistral-small-4,0,0,"text, image",,,2026-03-18
+Empirio Labs AI,MiMo-V2-Flash-EL,https://poe.com/mimo-v2-flash-el,0,0,text,,,2026-03-20
+Empirio Labs AI,MiMo-V2-Pro,https://poe.com/mimo-v2-pro,0,0,"text, image",,,2026-03-19
+Empirio Labs AI,Mistral-Small-4,https://poe.com/mistral-small-4,0,0,text,,,2026-03-18
 Empirio Labs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.31,2.5,"text, image, video",,,2026-03-06
 Empirio Labs AI,Qwen3.5-Flash,https://poe.com/qwen3.5-flash,0,0,"text, video",,,2026-02-24
 Empirio Labs AI,Perplexity-Search,https://poe.com/perplexity-search,0,0,text,,,2026-02-22
