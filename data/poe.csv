@@ -64,8 +64,6 @@ Together AI,MiniMax-M2.5-T,https://poe.com/minimax-m2.5-t,0,0,text,,,2026-02-17
 Together AI,Qwen-3-Coder-Next-T,https://poe.com/qwen-3-coder-next-t,0,0,text,,,2026-02-06
 Together AI,Kimi-K2-Think-T,https://poe.com/kimi-k2-think-t,0,0,text,,,2025-11-11
 Together AI,GLM-4.7-T,https://poe.com/glm-4.7-t,0,0,"text, image",,,2025-11-11
-Together AI,Qwen3-Next-Instruct-T,https://poe.com/qwen3-next-instruct-t,0,0,text,,,2025-10-01
-Together AI,Qwen3-Next-Think-T,https://poe.com/qwen3-next-think-t,0,0,text,,,2025-10-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,2,6,"text, image",128000,,2026-03-13
 XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.2,0.5,"text, image",2000000,,2025-11-19
 XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.2,0.5,"text, image",2000000,,2025-11-19
