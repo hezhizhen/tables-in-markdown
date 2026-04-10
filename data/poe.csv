@@ -67,6 +67,8 @@ OpenAI,GPT-5.1-Codex,https://poe.com/gpt-5.1-codex,1.1,9,"text, image",400000,12
 OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1,9,"text, image",400000,128000,2025-11-12
 OpenAI,GPT-5.1-Codex-Mini,https://poe.com/gpt-5.1-codex-mini,0.22,1.8,text,400000,128000,2025-11-12
 Poe Tools,Claude-Code,https://poe.com/claude-code,0,0,text,,,2025-11-27
+Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,0,0,text,,,2026-04-09
+Together AI,GLM-5.1-T,https://poe.com/glm-5.1-t,0,0,text,,,2026-04-08
 Together AI,GLM-5-T,https://poe.com/glm-5-t,0,0,text,,,2026-04-06
 Together AI,Qwen3.5-397B-A17B-T,https://poe.com/qwen3.5-397b-a17b-t,0,0,text,,,2026-02-17
 Together AI,MiniMax-M2.5-T,https://poe.com/minimax-m2.5-t,0,0,text,,,2026-02-17
