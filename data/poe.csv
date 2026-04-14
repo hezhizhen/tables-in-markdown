@@ -2,7 +2,6 @@ Provider,Model,Link,Input ($/M tokens),Output ($/M tokens),Input Modalities,Cont
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.6,13,"text, image",983040,128000,2026-02-05
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.3,21,"text, image",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.3,21,"text, image",196608,64000,2025-11-21
-Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.85,4.3,"text, image",192000,64000,2025-10-15
 Empirio Labs AI,DeepSeek-V3.2-EL,https://poe.com/deepseek-v3.2-el,0,0,text,,,2026-04-06
 Empirio Labs AI,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0,0,"text, image",,,2026-04-02
 Empirio Labs AI,Qwen3.5-Omni-Flash,https://poe.com/qwen3.5-omni-flash,0,0,"text, image, video, audio",,,2026-03-30
