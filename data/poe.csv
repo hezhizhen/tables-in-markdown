@@ -1,29 +1,29 @@
 Provider,Model,Link,Input ($/M tokens),Output ($/M tokens),Input Modalities,Context Window,Max Output,Created
-Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.3,21,"text, image",1048576,128000,2026-04-15
-Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.6,13,"text, image",983040,128000,2026-02-05
-Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.3,21,"text, image",983040,128000,2026-02-04
-Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.3,21,"text, image",196608,64000,2025-11-21
+Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,"text, image",1048576,128000,2026-04-15
+Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,"text, image",983040,128000,2026-02-05
+Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,"text, image",983040,128000,2026-02-04
+Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,"text, image",196608,64000,2025-11-21
 Empirio Labs AI,DeepSeek-V3.2-EL,https://poe.com/deepseek-v3.2-el,0,0,text,,,2026-04-06
 Empirio Labs AI,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0,0,"text, image",,,2026-04-02
 Empirio Labs AI,Qwen3.5-Omni-Flash,https://poe.com/qwen3.5-omni-flash,0,0,"text, video, audio",,,2026-03-30
 Empirio Labs AI,Qwen3.5-Omni-Plus,https://poe.com/qwen3.5-omni-plus,0,0,"text, video, audio",,,2026-03-30
-Empirio Labs AI,Seed-2.0-Pro,https://poe.com/seed-2.0-pro,0.63,3.8,"text, image, video",,,2026-03-26
+Empirio Labs AI,Seed-2.0-Pro,https://poe.com/seed-2.0-pro,0.6313,3.7879,"text, image, video",,,2026-03-26
 Empirio Labs AI,MiMo-V2-Omni,https://poe.com/mimo-v2-omni,0,0,text,,,2026-03-20
 Empirio Labs AI,MiMo-V2-Flash-EL,https://poe.com/mimo-v2-flash-el,0,0,text,,,2026-03-20
 Empirio Labs AI,MiMo-V2-Pro,https://poe.com/mimo-v2-pro,0,0,text,,,2026-03-19
 Empirio Labs AI,Mistral-Small-4,https://poe.com/mistral-small-4,0,0,text,,,2026-03-18
-Empirio Labs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.32,2.5,"text, image, video",,,2026-03-06
-Empirio Labs AI,Qwen3.5-Flash,https://poe.com/qwen3.5-flash,0.091,0.37,"text, image, video",,,2026-02-24
+Empirio Labs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.3157,2.5253,"text, image, video",,,2026-03-06
+Empirio Labs AI,Qwen3.5-Flash,https://poe.com/qwen3.5-flash,0.0909,0.3717,"text, image, video",,,2026-02-24
 Empirio Labs AI,Perplexity-Search,https://poe.com/perplexity-search,0,0,text,,,2026-02-22
-Empirio Labs AI,Seed-2.0-Mini,https://poe.com/seed-2.0-mini,0.13,0.51,"text, image, video",,,2026-02-21
+Empirio Labs AI,Seed-2.0-Mini,https://poe.com/seed-2.0-mini,0.1263,0.5051,"text, image, video",,,2026-02-21
 Empirio Labs AI,Qwen3.5-Plus,https://poe.com/qwen3.5-plus,0,0,text,,,2026-02-16
 Empirio Labs AI,Perplexity-Adv-Deep-Research,https://poe.com/perplexity-adv-deep-research,0,0,text,,,2026-02-11
 Empirio Labs AI,Qwen3-Max-Thinking,https://poe.com/qwen3-max-thinking,0,0,text,,,2026-01-26
-Empirio Labs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.38,3.2,"text, image, video",,,2025-12-04
+Empirio Labs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,"text, image, video",,,2025-12-04
 Empirio Labs AI,Exa-Answer,https://poe.com/exa-answer,0,0,text,,,2025-11-26
 Empirio Labs AI,Exa-Search,https://poe.com/exa-search,0,0,text,,,2025-11-26
 Empirio Labs AI,Exa-Research,https://poe.com/exa-research,0,0,text,,,2025-11-26
-Empirio Labs AI,Qwen3-Max-Preview,https://poe.com/qwen3-max-preview,1.1,4.8,text,,,2025-11-24
+Empirio Labs AI,Qwen3-Max-Preview,https://poe.com/qwen3-max-preview,1.0909,4.8485,text,,,2025-11-24
 Empirio Labs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,0,0,text,,,2025-11-21
 Empirio Labs AI,GPTZero,https://poe.com/gptzero,0,0,text,,,2025-10-31
 Empirio Labs AI,Manus,https://poe.com/manus,0,0,text,,,2025-10-28
@@ -34,41 +34,41 @@ Fireworks AI,GLM-5.1-FW,https://poe.com/glm-5.1-fw,0,0,text,,,2026-04-07
 Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,0,0,"text, image",,,2026-01-27
 Fireworks AI,GLM-4.7-FW,https://poe.com/glm-4.7-fw,0,0,text,,,2025-12-23
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,0,0,"text, image",262144,8192,2026-04-02
-Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2,12,"text, image, video, audio",1048576,65536,2026-02-19
-Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.25,1.5,"text, image, video, audio",1048576,65536,2026-02-18
-Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.13,0.4,"text, image",,,2026-04-02
-Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.14,0.4,"text, image",,,2026-04-02
-Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.1,0.3,text,,,2026-03-20
-Novita AI,Minimax-M2.7,https://poe.com/minimax-m2.7,0.3,1.2,text,,,2026-03-18
-Novita AI,Qwen3.5-397B-A17B,https://poe.com/qwen3.5-397b-a17b,0.61,3.6,"text, image, video",,,2026-02-16
-Novita AI,Minimax-M2.5,https://poe.com/minimax-m2.5,0.3,1.2,text,,,2026-02-12
-Novita AI,GLM-5,https://poe.com/glm-5,1,3.2,text,,,2026-02-11
-Novita AI,Qwen3-Coder-Next,https://poe.com/qwen3-coder-next,0.2,1.5,text,,,2026-02-03
-Novita AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.61,3,"text, image, video",128000,,2026-01-27
-Novita AI,GLM-4.7-Flash,https://poe.com/glm-4.7-flash,0.071,0.4,text,,,2026-01-19
-Novita AI,Minimax-M2.1,https://poe.com/minimax-m2.1,0.3,1.2,text,,,2025-12-26
-Novita AI,GLM-4.7-N,https://poe.com/glm-4.7-n,0.61,2.2,text,,,2025-12-22
-Novita AI,GLM-4.6V,https://poe.com/glm-4.6v,0.3,0.91,"text, image",,,2025-12-09
-Novita AI,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.27,0.4,text,128000,,2025-12-01
-Novita AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.61,2.5,text,,,2025-11-07
+Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,"text, image, video, audio",1048576,65536,2026-02-19
+Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,"text, image, video, audio",1048576,65536,2026-02-18
+Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,"text, image",,,2026-04-02
+Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,"text, image",,,2026-04-02
+Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.101,0.303,text,,,2026-03-20
+Novita AI,Minimax-M2.7,https://poe.com/minimax-m2.7,0.303,1.2121,text,,,2026-03-18
+Novita AI,Qwen3.5-397B-A17B,https://poe.com/qwen3.5-397b-a17b,0.6061,3.6364,"text, image, video",,,2026-02-16
+Novita AI,Minimax-M2.5,https://poe.com/minimax-m2.5,0.303,1.2121,text,,,2026-02-12
+Novita AI,GLM-5,https://poe.com/glm-5,1.0101,3.2323,text,,,2026-02-11
+Novita AI,Qwen3-Coder-Next,https://poe.com/qwen3-coder-next,0.202,1.5152,text,,,2026-02-03
+Novita AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,"text, image, video",128000,,2026-01-27
+Novita AI,GLM-4.7-Flash,https://poe.com/glm-4.7-flash,0.0707,0.404,text,,,2026-01-19
+Novita AI,Minimax-M2.1,https://poe.com/minimax-m2.1,0.303,1.2121,text,,,2025-12-26
+Novita AI,GLM-4.7-N,https://poe.com/glm-4.7-n,0.6061,2.2222,text,,,2025-12-22
+Novita AI,GLM-4.6V,https://poe.com/glm-4.6v,0.303,0.9091,"text, image",,,2025-12-09
+Novita AI,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2717,0.404,text,128000,,2025-12-01
+Novita AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.6061,2.5253,text,,,2025-11-07
 Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,0,0,text,,,2025-11-05
 Novita AI,Minimax-M2,https://poe.com/minimax-m2,0,0,text,,,2025-10-28
-OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.68,4.1,"text, image",400000,128000,2026-03-12
-OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.18,1.1,"text, image",400000,128000,2026-03-11
-OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27,160,"text, image",1050000,128000,2026-03-05
+OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,"text, image",400000,128000,2026-03-12
+OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,"text, image",400000,128000,2026-03-11
+OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,"text, image",1050000,128000,2026-03-05
 OpenAI,GPT-5.3-Codex-Spark,https://poe.com/gpt-5.3-codex-spark,0,0,text,128000,16384,2026-03-04
-OpenAI,GPT-5.3-Instant,https://poe.com/gpt-5.3-instant,1.6,13,"text, image",128000,16384,2026-03-03
-OpenAI,GPT-5.4,https://poe.com/gpt-5.4,2.3,14,"text, image",1050000,128000,2026-02-26
-OpenAI,GPT-5.3-Codex,https://poe.com/gpt-5.3-codex,1.6,13,"text, image",400000,128000,2026-02-10
-OpenAI,GPT-5.2-Codex,https://poe.com/gpt-5.2-codex,1.6,13,"text, image",400000,128000,2026-01-14
-OpenAI,GPT-5.2-Instant,https://poe.com/gpt-5.2-instant,1.6,13,"text, image",128000,16384,2025-12-11
-OpenAI,GPT-5.2-Pro,https://poe.com/gpt-5.2-pro,19,150,"text, image",400000,128000,2025-12-11
-OpenAI,GPT-5.2,https://poe.com/gpt-5.2,1.6,13,"text, image",400000,128000,2025-12-08
-OpenAI,GPT-5.1-Codex-Max,https://poe.com/gpt-5.1-codex-max,1.1,9.1,"text, image",400000,128000,2025-12-08
-OpenAI,GPT-5.1-Instant,https://poe.com/gpt-5.1-instant,1.1,9.1,"text, image",128000,16384,2025-11-12
-OpenAI,GPT-5.1-Codex,https://poe.com/gpt-5.1-codex,1.1,9.1,"text, image",400000,128000,2025-11-12
-OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1,9.1,"text, image",400000,128000,2025-11-12
-OpenAI,GPT-5.1-Codex-Mini,https://poe.com/gpt-5.1-codex-mini,0.23,1.8,text,400000,128000,2025-11-12
+OpenAI,GPT-5.3-Instant,https://poe.com/gpt-5.3-instant,1.5909,12.7273,"text, image",128000,16384,2026-03-03
+OpenAI,GPT-5.4,https://poe.com/gpt-5.4,2.2727,13.6364,"text, image",1050000,128000,2026-02-26
+OpenAI,GPT-5.3-Codex,https://poe.com/gpt-5.3-codex,1.5909,12.7273,"text, image",400000,128000,2026-02-10
+OpenAI,GPT-5.2-Codex,https://poe.com/gpt-5.2-codex,1.5909,12.7273,"text, image",400000,128000,2026-01-14
+OpenAI,GPT-5.2-Instant,https://poe.com/gpt-5.2-instant,1.5909,12.7273,"text, image",128000,16384,2025-12-11
+OpenAI,GPT-5.2-Pro,https://poe.com/gpt-5.2-pro,19.0909,152.727,"text, image",400000,128000,2025-12-11
+OpenAI,GPT-5.2,https://poe.com/gpt-5.2,1.5909,12.7273,"text, image",400000,128000,2025-12-08
+OpenAI,GPT-5.1-Codex-Max,https://poe.com/gpt-5.1-codex-max,1.1364,9.0909,"text, image",400000,128000,2025-12-08
+OpenAI,GPT-5.1-Instant,https://poe.com/gpt-5.1-instant,1.1364,9.0909,"text, image",128000,16384,2025-11-12
+OpenAI,GPT-5.1-Codex,https://poe.com/gpt-5.1-codex,1.1364,9.0909,"text, image",400000,128000,2025-11-12
+OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1364,9.0909,"text, image",400000,128000,2025-11-12
+OpenAI,GPT-5.1-Codex-Mini,https://poe.com/gpt-5.1-codex-mini,0.2273,1.8182,text,400000,128000,2025-11-12
 Poe Tools,Claude-Code,https://poe.com/claude-code,0,0,text,,,2025-11-27
 Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,0,0,text,,,2026-04-09
 Together AI,GLM-5.1-T,https://poe.com/glm-5.1-t,0,0,text,,,2026-04-08
@@ -76,7 +76,7 @@ Together AI,GLM-5-T,https://poe.com/glm-5-t,0,0,text,,,2026-04-06
 Together AI,Qwen3.5-397B-A17B-T,https://poe.com/qwen3.5-397b-a17b-t,0,0,text,,,2026-02-17
 Together AI,MiniMax-M2.5-T,https://poe.com/minimax-m2.5-t,0,0,text,,,2026-02-17
 Together AI,Qwen-3-Coder-Next-T,https://poe.com/qwen-3-coder-next-t,0,0,text,,,2026-02-06
-XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,2,6.1,"text, image",128000,,2026-03-13
-XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.2,0.51,"text, image",2000000,,2025-11-19
-XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.2,0.51,"text, image",2000000,,2025-11-19
+XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,2.0202,6.0606,"text, image",128000,,2026-03-13
+XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,"text, image",2000000,,2025-11-19
+XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,"text, image",2000000,,2025-11-19
 fal,Pika-v1.5-Effects,https://poe.com/pika-v1.5-effects,0,0,text,,,2025-12-12
