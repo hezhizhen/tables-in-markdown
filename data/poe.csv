@@ -3,6 +3,7 @@ Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,"text, 
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,"text, image",983040,128000,2026-02-05
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,"text, image",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,"text, image",196608,64000,2025-11-21
+Empirio Labs AI,Qwen3.6-Max-Preview,https://poe.com/qwen3.6-max-preview,1.3131,7.8788,text,,,2026-04-20
 Empirio Labs AI,DeepSeek-V3.2-EL,https://poe.com/deepseek-v3.2-el,0,0,text,,,2026-04-06
 Empirio Labs AI,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0,0,"text, image",,,2026-04-02
 Empirio Labs AI,Qwen3.5-Omni-Flash,https://poe.com/qwen3.5-omni-flash,0,0,"text, video, audio",,,2026-03-30
@@ -36,6 +37,7 @@ Fireworks AI,GLM-4.7-FW,https://poe.com/glm-4.7-fw,0,0,text,,,2025-12-23
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,0,0,"text, image",262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,"text, image, video, audio",1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,"text, image, video, audio",1048576,65536,2026-02-18
+Novita AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,"text, image, video",,,2026-04-20
 Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,"text, image",,,2026-04-02
 Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,"text, image",,,2026-04-02
 Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.101,0.303,text,,,2026-03-20
