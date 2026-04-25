@@ -3,6 +3,8 @@ Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,"text, 
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,"text, image",983040,128000,2026-02-05
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,"text, image",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,"text, image",196608,64000,2025-11-21
+EmpirioLabs AI,MiMo-V2.5,https://poe.com/mimo-v2.5,0,0,text,,,2026-04-24
+EmpirioLabs AI,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,text,,,2026-04-24
 EmpirioLabs AI,Seed-2.0-Code,https://poe.com/seed-2.0-code,0.6313,3.7879,"text, image, video",,,2026-04-22
 EmpirioLabs AI,Qwen3.6-Max-Preview,https://poe.com/qwen3.6-max-preview,1.3131,7.8788,text,,,2026-04-20
 EmpirioLabs AI,Seedream-5.0-Lite-EL,https://poe.com/seedream-5.0-lite-el,0,0,text,,,2026-04-20
@@ -57,6 +59,8 @@ Novita AI,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2717,0.404,text,128000,,
 Novita AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.6061,2.5253,text,,,2025-11-07
 Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,0,0,text,,,2025-11-05
 Novita AI,Minimax-M2,https://poe.com/minimax-m2,0,0,text,,,2025-10-28
+OpenAI,GPT-5.5,https://poe.com/gpt-5.5,4.5455,27.2727,"text, image",400000,128000,2026-04-08
+OpenAI,GPT-5.5-Pro,https://poe.com/gpt-5.5-pro,27.2727,163.636,"text, image",400000,128000,2026-04-08
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,"text, image",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,"text, image",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,"text, image",1050000,128000,2026-03-05
