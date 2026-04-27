@@ -31,7 +31,6 @@ EmpirioLabs AI,Exa-Research,https://poe.com/exa-research,0,0,text,,,2025-11-26
 EmpirioLabs AI,Qwen3-Max-Preview,https://poe.com/qwen3-max-preview,1.0909,4.8485,text,,,2025-11-24
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,0,0,text,,,2025-11-21
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,0,0,text,,,2025-10-31
-EmpirioLabs AI,Manus,https://poe.com/manus,0,0,text,,,2025-10-28
 Fireworks AI,Qwen3.5-397B-FW,https://poe.com/qwen3.5-397b-fw,0,0,text,,,2026-04-16
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,0,0,text,,,2026-04-16
 Fireworks AI,Gemma-4-31B-FW,https://poe.com/gemma-4-31b-fw,0,0,text,,,2026-04-15
@@ -58,9 +57,8 @@ Novita AI,GLM-4.6V,https://poe.com/glm-4.6v,0.303,0.9091,"text, image",,,2025-12
 Novita AI,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2717,0.404,text,128000,,2025-12-01
 Novita AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.6061,2.5253,text,,,2025-11-07
 Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,0,0,text,,,2025-11-05
-Novita AI,Minimax-M2,https://poe.com/minimax-m2,0,0,text,,,2025-10-28
-OpenAI,GPT-5.5,https://poe.com/gpt-5.5,4.5455,27.2727,"text, image",400000,128000,2026-04-08
-OpenAI,GPT-5.5-Pro,https://poe.com/gpt-5.5-pro,27.2727,163.636,"text, image",400000,128000,2026-04-08
+OpenAI,GPT-5.5,https://poe.com/gpt-5.5,4.5455,27.2727,text,400000,128000,2026-04-08
+OpenAI,GPT-5.5-Pro,https://poe.com/gpt-5.5-pro,27.2727,163.636,text,400000,128000,2026-04-08
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,"text, image",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,"text, image",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,"text, image",1050000,128000,2026-03-05
