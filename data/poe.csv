@@ -1,4 +1,4 @@
-Provider,Model,Link,Input ($/M tokens),Output ($/M tokens),Input Modalities,Features,Context Window,Max Output,Created
+Provider,Model,Link,Input ($/M),Output ($/M),Input Modalities,Features,Context Window,Max Output,Created
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,"text, image","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,"text, image","web_search, tools",983040,128000,2026-02-05
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,"text, image","web_search, tools",983040,128000,2026-02-04
