@@ -3,32 +3,37 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Tables</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="style.css" rel="stylesheet">
 </head>
 
 <body>
-    <h1 id="page-title">Tables</h1>
-    <div id="list-view">
-        <div class="badges" style="text-align: center; margin-bottom: 20px;">
-            <a
+<h1 id="page-title">Tables</h1>
+<div id="list-view">
+    <div class="badges" style="text-align: center; margin-bottom: 20px;">
+        <a
                 href="https://wakatime.com/badge/user/9053a32c-e602-40ae-96b2-be7c43d90c66/project/dec1bde2-6322-464c-aeec-e91e451e5ce2"><img
-                    src="https://wakatime.com/badge/user/9053a32c-e602-40ae-96b2-be7c43d90c66/project/dec1bde2-6322-464c-aeec-e91e451e5ce2.svg"
-                    alt="wakatime"></a>
-            <img src="https://img.shields.io/github/last-commit/hezhizhen/tables-in-markdown" alt="last commit">
-        </div>
-        <div id="csv-list-container">
-            <p>Loading CSV file list...</p>
-        </div>
+                alt="wakatime"
+                src="https://wakatime.com/badge/user/9053a32c-e602-40ae-96b2-be7c43d90c66/project/dec1bde2-6322-464c-aeec-e91e451e5ce2.svg"></a>
+        <img alt="last commit" src="https://img.shields.io/github/last-commit/hezhizhen/tables-in-markdown">
     </div>
-    <div id="table-view" style="display:none;">
-        <div style="text-align: center; margin-bottom: 20px;">
-            <a href="#" id="back-link">Back to List</a>
-        </div>
-        <div id="table-container"></div>
+    <div id="csv-list-container">
+        <p>Loading CSV file list...</p>
     </div>
-    <script src="app.js"></script>
+</div>
+<div id="table-view" style="display:none;">
+    <div style="text-align: center; margin-bottom: 20px;">
+        <a href="#" id="back-link">Back to List</a>
+    </div>
+    <div id="table-controls" style="text-align: center; margin-bottom: 10px; display: none;">
+        <span id="selection-count"></span>
+        <button id="confirm-btn" type="button">Compare Selected</button>
+        <button id="clear-btn" type="button">Show All</button>
+    </div>
+    <div id="table-container"></div>
+</div>
+<script src="app.js"></script>
 </body>
 
 </html>
