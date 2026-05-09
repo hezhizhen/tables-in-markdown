@@ -15,6 +15,7 @@ COLUMNS = [
     "Link",
     "Input ($/M)",
     "Output ($/M)",
+    "Request ($/req)",
     "Input Modalities",
     "Features",
     "Context Window",
@@ -51,6 +52,15 @@ def format_price(price_per_token):
     return f"{per_million:g}"
 
 
+def format_request_price(price_per_request):
+    if price_per_request is None:
+        return ""
+    value = float(price_per_request)
+    if value == 0:
+        return "0"
+    return f"{value:g}"
+
+
 def to_row(model):
     pricing = model.get("pricing") or {}
     ctx = model.get("context_window") or {}
@@ -60,6 +70,7 @@ def to_row(model):
         "Link": model.get("metadata", {}).get("url", f"https://poe.com/{model['id']}"),
         "Input ($/M)": format_price(pricing.get("prompt")),
         "Output ($/M)": format_price(pricing.get("completion")),
+        "Request ($/req)": format_request_price(pricing.get("request")),
         "Input Modalities": ", ".join(model.get("architecture", {}).get("input_modalities", [])),
         "Features": ", ".join(model.get("supported_features", [])),
         "Context Window": ctx.get("context_length", ""),
