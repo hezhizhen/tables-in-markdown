@@ -21,10 +21,7 @@ COLUMNS = [
     "Created",
 ]
 
-# Models known to be text-capable even if not tagged as such
-KNOWN_TEXT_MODELS = {"gpt-5.4"}
-
-MONTHS_CUTOFF = 6
+MONTHS_CUTOFF = 12
 
 
 def fetch_models():
@@ -35,9 +32,7 @@ def fetch_models():
 
 def is_text_model(model):
     output_modalities = model.get("architecture", {}).get("output_modalities", [])
-    if "text" in output_modalities:
-        return True
-    return model["id"] in KNOWN_TEXT_MODELS
+    return "text" in output_modalities
 
 
 def created_date(model):
@@ -47,7 +42,7 @@ def created_date(model):
 
 def format_price(price_per_token):
     if price_per_token is None:
-        return "0"
+        return ""
     per_million = float(price_per_token) * 1_000_000
     if per_million == 0:
         return "0"
