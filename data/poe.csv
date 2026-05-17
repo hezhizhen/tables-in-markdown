@@ -6,8 +6,6 @@ Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Anthropic,Claude-Opus-4.1,https://poe.com/claude-opus-4.1,12.8788,64.3939,,"text,image->text","web_search, tools",196608,32000,2025-08-05
-Anthropic,Claude-Sonnet-4,https://poe.com/claude-sonnet-4,2.5758,12.8788,,"text,image->text","web_search, tools",983040,64000,2025-05-21
-Anthropic,Claude-Opus-4,https://poe.com/claude-opus-4,12.8788,64.3939,,"text,image->text","web_search, tools",192512,28672,2025-05-21
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
 EmpirioLabs AI,DeepSeek-V4-Pro-E,https://poe.com/deepseek-v4-pro-e,2.4242,4.8485,,text->text,tools,,,2026-05-13
