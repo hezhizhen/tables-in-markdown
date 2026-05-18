@@ -1,0 +1,14 @@
+Product,CLI,Install,Language,Agent Skill,Auth,Version
+[1Password](https://1password.com),[op](https://developer.1password.com/docs/cli/),brew install 1password-cli,Go,❌,Biometric / Token,2.34.0
+[AWS](https://aws.amazon.com),[aws](https://github.com/aws/aws-cli),brew install awscli,Python,❌,Access Key / SSO,2.34.48
+[Cursor](https://cursor.com),[cursor](https://cursor.com/cli),brew install cursor-cli,TypeScript,✅,OAuth,2026.05.16
+[GitHub](https://github.com),[gh](https://github.com/cli/cli),brew install gh,Go,❌,OAuth / Token,2.92.0
+[Google Workspace](https://workspace.google.com),[gws](https://github.com/googleworkspace/cli),npm install -g @googleworkspace/cli,Rust,✅,OAuth,0.22.5
+[Kiro](https://kiro.dev),[kiro-cli](https://kiro.dev/cli/),brew install kiro-cli,TypeScript,✅,OAuth,2.3.0
+[Logseq](https://logseq.com),[logseq](https://www.npmjs.com/package/@logseq/cli),npm install -g @logseq/cli,TypeScript,❌,N/A,0.4.3
+[Notion](https://notion.so),[ntn](https://github.com/makenotion/skills),curl -fsS https://cli.notion.so/install.sh | sh,Go,✅,API Token,0.14.0
+[Obsidian](https://obsidian.md),[obsidian](https://obsidian.md/cli),Settings → General → Enable CLI,TypeScript,❌,N/A,1.12.7
+[Readwise](https://readwise.io),[readwise](https://readwise.io/cli),npm install -g @readwise/cli,TypeScript,✅,OAuth / Token,latest
+[Codex](https://openai.com/codex),[codex](https://github.com/openai/codex),brew install codex,TypeScript,✅,API Key,0.130.0
+[Todoist](https://todoist.com),[td](https://github.com/Doist/todoist-cli),npm install -g @doist/todoist-cli,TypeScript,✅,OAuth / API Token,1.64.0
+[VS Code](https://code.visualstudio.com),[code](https://code.visualstudio.com/docs/editor/command-line),Bundled with app,TypeScript,❌,N/A,1.101.0
