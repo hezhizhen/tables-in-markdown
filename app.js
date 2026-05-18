@@ -92,6 +92,14 @@
         }
     }
 
+    function parseMarkdownLink(str) {
+        var match = str.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+        if (match) {
+            return {text: match[1], url: match[2]};
+        }
+        return null;
+    }
+
     function parseCsvRow(rowString) {
         var cells = [];
         var inQuotes = false;
@@ -203,7 +211,15 @@
                         td.classList.add('col-max');
                     }
                 }
-                if (isURL(cellText)) {
+                var mdLink = parseMarkdownLink(cellText);
+                if (mdLink) {
+                    var anchor = document.createElement('a');
+                    anchor.href = mdLink.url;
+                    anchor.textContent = mdLink.text;
+                    anchor.target = '_blank';
+                    anchor.rel = 'noopener noreferrer';
+                    td.appendChild(anchor);
+                } else if (isURL(cellText)) {
                     var anchor = document.createElement('a');
                     anchor.href = cellText;
                     anchor.textContent = cellText;
