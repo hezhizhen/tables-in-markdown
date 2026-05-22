@@ -8,6 +8,7 @@ Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.1,https://poe.com/claude-opus-4.1,12.8788,64.3939,,"text,image->text","web_search, tools",196608,32000,2025-08-05
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
+EmpirioLabs AI,Qwen3.7-Max,https://poe.com/qwen3.7-max,2.5253,7.5758,,text->text,tools,,,2026-05-21
 EmpirioLabs AI,Gemma-4-26B-A4B-EL,https://poe.com/gemma-4-26b-a4b-el,,,,"text,image,video->text",tools,,,2026-05-17
 EmpirioLabs AI,Qwen3.5-9B-EL,https://poe.com/qwen3.5-9b-el,,,,"text,image,video->text",tools,,,2026-05-17
 EmpirioLabs AI,Qwen3.5-4B-EL,https://poe.com/qwen3.5-4b-el,,,,"text,image,video->text",tools,,,2026-05-17
@@ -132,6 +133,7 @@ Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09
 Poe Tools,Code-Saver,https://poe.com/code-saver,,,,text->text,,,,2025-08-01
 Poe Tools,Code-Editor,https://poe.com/code-editor,,,,text->text,,,,2025-06-02
 Reka AI,Reka-Research,https://poe.com/reka-research,,,,text->text,,,,2025-06-26
+Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0,text->text,,,,2026-05-22
 Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0,text->text,,,,2026-05-15
 Together AI,Qwen3.6-Plus-T,https://poe.com/qwen3.6-plus-t,,,0.0061,text->text,,,,2026-04-30
 Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->text,,,,2026-04-24
@@ -142,7 +144,6 @@ Together AI,Qwen3.5-397B-A17B-T,https://poe.com/qwen3.5-397b-a17b-t,,,0,text->te
 Together AI,GPT-OSS-20B-T,https://poe.com/gpt-oss-20b-t,,,0.00045,"text,image->text",,,,2025-08-06
 Together AI,GPT-OSS-120B-T,https://poe.com/gpt-oss-120b-t,,,0.0015,"text,image->text",,128000,,2025-08-05
 Together AI,Qwen3-Coder-480B-T,https://poe.com/qwen3-coder-480b-t,,,0.017,text->text,,,,2025-07-25
-Together AI,Kimi-K2.5-Tog,https://poe.com/kimi-k2.5-tog,,,0.011,text->text,,,,2025-07-14
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",,,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
 XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
