@@ -1,4 +1,5 @@
 Provider,Model,Link,Input ($/M),Output ($/M),Request ($/req),Modality,Features,Context Window,Max Output,Created
+Anthropic,Claude-Opus-4.8,https://poe.com/claude-opus-4.8,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-05-28
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"text,image->text","web_search, tools",983040,128000,2026-02-05
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,,"text,image->text","web_search, tools",983040,128000,2026-02-04
@@ -60,7 +61,7 @@ Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,,,0,"text,image->text",to
 Fireworks AI,GLM-4.7-FW,https://poe.com/glm-4.7-fw,,,0.0061,text->text,,,,2025-12-23
 Fireworks AI,OpenAI-GPT-OSS-120B,https://poe.com/openai-gpt-oss-120b,,,0.0015,"text,image->text",,128000,,2025-08-05
 Fireworks AI,OpenAI-GPT-OSS-20B,https://poe.com/openai-gpt-oss-20b,,,0.00076,"text,image->text",,128000,,2025-08-05
-Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,image,audio->text",tools,1048576,65536,2026-05-19
+Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,audio->text",tools,1048576,65536,2026-05-19
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
@@ -131,7 +132,6 @@ Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
 Poe Tools,Code-Saver,https://poe.com/code-saver,,,,text->text,,,,2025-08-01
-Poe Tools,Code-Editor,https://poe.com/code-editor,,,,text->text,,,,2025-06-02
 Reka AI,Reka-Research,https://poe.com/reka-research,,,,text->text,,,,2025-06-26
 Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0,text->text,,,,2026-05-22
 Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0,text->text,,,,2026-05-15
