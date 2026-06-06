@@ -128,7 +128,6 @@ OpenAI,GPT-5-nano,https://poe.com/gpt-5-nano,0.0455,0.3636,,"text,image->text","
 OpenAI,o4-mini-deep-research,https://poe.com/o4-mini-deep-research,1.8182,7.2727,,text->text,"web_search, tools",200000,100000,2025-06-27
 OpenAI,o3-deep-research,https://poe.com/o3-deep-research,9.0909,36.3636,,text->text,"web_search, tools",200000,100000,2025-06-27
 OpenAI,GPT-5-mini,https://poe.com/gpt-5-mini,0.2273,1.8182,,"text,image->text","web_search, tools",400000,128000,2025-06-25
-OpenAI,o3-pro,https://poe.com/o3-pro,18.1818,72.7273,,"text,image->text",tools,200000,100000,2025-06-10
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
