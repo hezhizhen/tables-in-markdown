@@ -1,5 +1,4 @@
 Provider,Model,Link,Input ($/M),Output ($/M),Request ($/req),Modality,Features,Context Window,Max Output,Created
-Anthropic,Claude-Fable-5,https://poe.com/claude-fable-5,10.101,50.5051,,"text,image->text","web_search, tools",1048576,128000,2026-06-09
 Anthropic,Claude-Opus-4.8,https://poe.com/claude-opus-4.8,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-05-28
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"text,image->text","web_search, tools",983040,128000,2026-02-05
@@ -68,7 +67,7 @@ Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,2621
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
 Google,Gemini-3-Flash,https://poe.com/gemini-3-flash,0.404,2.4242,,"text,image,video,audio->text",tools,1048576,65536,2025-10-07
-Google,Gemini-2.5-Flash-Lite,https://poe.com/gemini-2.5-flash-lite,0.0707,0.2828,,"text,image,video,audio->text",tools,1024000,64000,2025-06-19
+Google,Gemini-2.5-Flash-Lite,https://poe.com/gemini-2.5-flash-lite,0.101,0.404,,"text,image,video,audio->text",tools,1024000,64000,2025-06-19
 Novita AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image,video->text",tools,,,2026-04-20
 Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,,"text,image->text",,,,2026-04-02
