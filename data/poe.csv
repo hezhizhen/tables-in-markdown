@@ -56,7 +56,6 @@ EmpirioLabs AI,Linkup-Deep-Search,https://poe.com/linkup-deep-search,,,,text->te
 EmpirioLabs AI,Linkup-Standard,https://poe.com/linkup-standard,,,,text->text,,,,2025-08-15
 EmpirioLabs AI,Deepgram-Nova-3,https://poe.com/deepgram-nova-3,,,,text->text,,,,2025-07-30
 EmpirioLabs AI,Mistral-Medium-3,https://poe.com/mistral-medium-3,,,,"text,image->text",tools,,,2025-06-24
-EmpirioLabs AI,Magistral-Medium-EL,https://poe.com/magistral-medium-el,2.6263,6.5657,,"text,image->text",tools,,,2025-06-18
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
 Fireworks AI,GLM-5.1-FW,https://poe.com/glm-5.1-fw,,,0.0061,text->text,tools,,,2026-04-07
 Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,,,0,"text,image->text",tools,,,2026-01-27
