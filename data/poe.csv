@@ -9,6 +9,8 @@ Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.1,https://poe.com/claude-opus-4.1,12.8788,64.3939,,"text,image->text","web_search, tools",196608,32000,2025-08-05
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
+EmpirioLabs AI,Kling-3.0-Turbo,https://poe.com/kling-3.0-turbo,,,,text->text,,,,2026-06-18
+EmpirioLabs AI,GLM-5.2-EL,https://poe.com/glm-5.2-el,1.4141,4.4444,,text->text,tools,,,2026-06-16
 EmpirioLabs AI,Kimi-K2.7-Code-EL,https://poe.com/kimi-k2.7-code-el,0.9596,4.0404,,"text,image,video->text",tools,,,2026-06-12
 EmpirioLabs AI,MiniMax-M3-EL,https://poe.com/minimax-m3-el,0.303,1.2121,,"text,image,video->text",tools,,,2026-06-01
 EmpirioLabs AI,Qwen3.7-Plus,https://poe.com/qwen3.7-plus,0.404,1.6162,,"text,image,video->text",tools,,,2026-06-01
