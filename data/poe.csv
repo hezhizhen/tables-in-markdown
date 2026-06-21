@@ -16,9 +16,9 @@ EmpirioLabs AI,MiniMax-M3-EL,https://poe.com/minimax-m3-el,0.303,1.2121,,"text,i
 EmpirioLabs AI,Qwen3.7-Plus,https://poe.com/qwen3.7-plus,0.404,1.6162,,"text,image,video->text",tools,,,2026-06-01
 EmpirioLabs AI,Grok-Imgn-Video-1.5,https://poe.com/grok-imgn-video-1.5,,,,text->text,,,,2026-05-31
 EmpirioLabs AI,Qwen3.7-Max,https://poe.com/qwen3.7-max,2.5253,7.5758,,text->text,tools,,,2026-05-21
-EmpirioLabs AI,Gemma-4-26B-A4B-EL,https://poe.com/gemma-4-26b-a4b-el,,,,"text,image,video->text",tools,,,2026-05-17
-EmpirioLabs AI,Qwen3.5-9B-EL,https://poe.com/qwen3.5-9b-el,,,,"text,image,video->text",tools,,,2026-05-17
-EmpirioLabs AI,Qwen3.5-4B-EL,https://poe.com/qwen3.5-4b-el,,,,"text,image,video->text",tools,,,2026-05-17
+EmpirioLabs AI,Gemma-4-26B-A4B-EL,https://poe.com/gemma-4-26b-a4b-el,0.0505,0.2929,,"text,image,video->text",tools,,,2026-05-17
+EmpirioLabs AI,Qwen3.5-9B-EL,https://poe.com/qwen3.5-9b-el,0.0909,0.1313,,"text,image,video->text",tools,,,2026-05-17
+EmpirioLabs AI,Qwen3.5-4B-EL,https://poe.com/qwen3.5-4b-el,0.0404,0.0707,,"text,image,video->text",tools,,,2026-05-17
 EmpirioLabs AI,DeepSeek-V4-Pro-E,https://poe.com/deepseek-v4-pro-e,2.4242,4.8485,,text->text,tools,,,2026-05-13
 EmpirioLabs AI,DeepSeek-V4-Flash-E,https://poe.com/deepseek-v4-flash-e,0.202,0.404,,text->text,tools,,,2026-05-13
 EmpirioLabs AI,DeepSeek-V4-Flash-EL,https://poe.com/deepseek-v4-flash-el,0.1394,0.2778,,text->text,tools,,,2026-04-29
@@ -130,7 +130,6 @@ OpenAI,GPT-5,https://poe.com/gpt-5,1.1364,9.0909,,"text,image->text","web_search
 OpenAI,GPT-5-nano,https://poe.com/gpt-5-nano,0.0455,0.3636,,"text,image->text","web_search, tools",400000,128000,2025-08-05
 OpenAI,o4-mini-deep-research,https://poe.com/o4-mini-deep-research,1.8182,7.2727,,text->text,"web_search, tools",200000,100000,2025-06-27
 OpenAI,o3-deep-research,https://poe.com/o3-deep-research,9.0909,36.3636,,text->text,"web_search, tools",200000,100000,2025-06-27
-OpenAI,GPT-5-mini,https://poe.com/gpt-5-mini,0.2273,1.8182,,"text,image->text","web_search, tools",400000,128000,2025-06-25
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
