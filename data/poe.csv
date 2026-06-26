@@ -62,7 +62,7 @@ EmpirioLabs AI,Linkup-Standard,https://poe.com/linkup-standard,,,,text->text,,,,
 EmpirioLabs AI,Deepgram-Nova-3,https://poe.com/deepgram-nova-3,,,,text->text,,,,2025-07-30
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
 Fireworks AI,GLM-5.1-FW,https://poe.com/glm-5.1-fw,,,0.0061,text->text,tools,,,2026-04-07
-Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,,,0,"text,image->text",tools,,,2026-01-27
+Fireworks AI,Kimi-K2.5-FW,https://poe.com/kimi-k2.5-fw,,,0.015,"text,image->text",tools,262144,,2026-01-27
 Fireworks AI,GLM-4.7-FW,https://poe.com/glm-4.7-fw,,,0.0061,text->text,,,,2025-12-23
 Fireworks AI,OpenAI-GPT-OSS-120B,https://poe.com/openai-gpt-oss-120b,,,0.0015,"text,image->text",,128000,,2025-08-05
 Fireworks AI,OpenAI-GPT-OSS-20B,https://poe.com/openai-gpt-oss-20b,,,0.00076,"text,image->text",,128000,,2025-08-05
@@ -109,8 +109,6 @@ Novita AI,DeepSeek-R1-N,https://poe.com/deepseek-r1-n,,,0.0061,text->text,tools,
 Novita AI,Llama-3.3-70B-N,https://poe.com/llama-3.3-70b-n,,,0.0014,text->text,tools,,,2025-08-01
 Novita AI,GLM-4.5-N,https://poe.com/glm-4.5-n,,,0.0058,text->text,tools,,,2025-07-31
 Open-Source-Lab,Deep-AI-Search,https://poe.com/deep-ai-search,,,,text->text,,,,2025-07-23
-OpenAI,GPT-5.5,https://poe.com/gpt-5.5,4.5455,27.2727,,"text,image->text,image","web_search, tools",400000,128000,2026-04-08
-OpenAI,GPT-5.5-Pro,https://poe.com/gpt-5.5-pro,27.2727,163.636,,"text,image->text,image","web_search, tools",400000,128000,2026-04-08
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,,"text,image->text,image","web_search, tools",1050000,128000,2026-03-05
@@ -145,7 +143,7 @@ Together AI,GLM-5.1-T,https://poe.com/glm-5.1-t,,,0,text->text,,,,2026-04-08
 Together AI,Qwen3.5-397B-A17B-T,https://poe.com/qwen3.5-397b-a17b-t,,,0,text->text,,,,2026-02-17
 Together AI,GPT-OSS-20B-T,https://poe.com/gpt-oss-20b-t,,,0.00045,"text,image->text",,,,2025-08-06
 Together AI,GPT-OSS-120B-T,https://poe.com/gpt-oss-120b-t,,,0.0015,"text,image->text",,128000,,2025-08-05
-XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",,,,2026-05-01
+XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
 XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
 XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
