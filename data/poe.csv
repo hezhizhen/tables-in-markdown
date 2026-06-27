@@ -49,7 +49,6 @@ EmpirioLabs AI,Qwen3-Max-Thinking,https://poe.com/qwen3-max-thinking,1.0909,5.57
 EmpirioLabs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,,"text,image,video->text",tools,,,2025-12-04
 EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,,,2025-11-26
 EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
-EmpirioLabs AI,Exa-Research,https://poe.com/exa-research,,,,text->text,,,,2025-11-26
 EmpirioLabs AI,Qwen3-Max-Preview,https://poe.com/qwen3-max-preview,1.0909,4.8485,,text->text,,,,2025-11-24
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
