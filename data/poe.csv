@@ -1,4 +1,5 @@
 Provider,Model,Link,Input ($/M),Output ($/M),Request ($/req),Modality,Features,Context Window,Max Output,Created
+Anthropic,Claude-Sonnet-5,https://poe.com/claude-sonnet-5,1.7172,8.5859,,"text,image->text",web_search,,,2026-06-30
 Anthropic,Claude-Opus-4.8,https://poe.com/claude-opus-4.8,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-05-28
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"text,image->text","web_search, tools",983040,128000,2026-02-05
@@ -37,7 +38,6 @@ EmpirioLabs AI,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0.5051,3.0303,,"text,im
 EmpirioLabs AI,Qwen3.5-Omni-Flash,https://poe.com/qwen3.5-omni-flash,,,,"text,video,audio->text",,,,2026-03-30
 EmpirioLabs AI,Qwen3.5-Omni-Plus,https://poe.com/qwen3.5-omni-plus,,,,"text,video,audio->text",,,,2026-03-30
 EmpirioLabs AI,Seed-2.0-Pro,https://poe.com/seed-2.0-pro,0.6313,3.7879,,"text,image,video->text",tools,,,2026-03-26
-EmpirioLabs AI,MiMo-V2-Flash-EL,https://poe.com/mimo-v2-flash-el,0.101,0.303,,text->text,tools,,,2026-03-20
 EmpirioLabs AI,Mistral-Small-4,https://poe.com/mistral-small-4,,,,text->text,,,,2026-03-18
 EmpirioLabs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.3157,2.5253,,"text,image,video->text",tools,,,2026-03-06
 EmpirioLabs AI,Qwen3.5-Flash,https://poe.com/qwen3.5-flash,0.0909,0.3717,,"text,image,video->text",tools,,,2026-02-24
