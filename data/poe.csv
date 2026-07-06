@@ -147,5 +147,4 @@ XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.20
 XAI,Grok-4-Fast-Non-Reasoning,https://poe.com/grok-4-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
 XAI,Grok-4-Fast-Reasoning,https://poe.com/grok-4-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
 XAI,Grok-Code-Fast-1,https://poe.com/grok-code-fast-1,0.202,1.5152,,text->text,tools,256000,,2025-08-22
-XAI,Grok-4,https://poe.com/grok-4,3.0303,15.1515,,"text,image->text",tools,256000,,2025-07-10
 fal,Pika-v1.5-Effects,https://poe.com/pika-v1.5-effects,,,,text->text,,,,2025-12-12
