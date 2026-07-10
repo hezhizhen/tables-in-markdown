@@ -68,6 +68,7 @@ Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,2621
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
 Google,Gemini-3-Flash,https://poe.com/gemini-3-flash,0.404,2.4242,,"text,image,video,audio->text",tools,1048576,65536,2025-10-07
+Meta,Muse Spark 1.1,https://poe.com/muse-spark-1-1,1.2626,4.2929,,"text,image->text","tools, web_search",,,2026-07-09
 Novita AI,Hy3-N,https://poe.com/hy3-n,,,,text->text,tools,,,2026-07-06
 Novita AI,GLM-5.2,https://poe.com/glm-5.2,1.4141,4.4444,,text->text,tools,,,2026-06-16
 Novita AI,Minimax-M3-N,https://poe.com/minimax-m3-n,0.303,1.2121,,"text,image,video->text",tools,,,2026-06-12
