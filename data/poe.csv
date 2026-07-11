@@ -9,6 +9,8 @@ Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.1,https://poe.com/claude-opus-4.1,12.8788,64.3939,,"text,image->text","web_search, tools",196608,32000,2025-08-05
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
+EmpirioLabs AI,Seedream-5.0-Pro,https://poe.com/seedream-5.0-pro,,,,text->text,,,,2026-07-09
+EmpirioLabs AI,Step-3.7-Flash,https://poe.com/step-3.7-flash,0.202,1.1616,,"text,image,video->text",tools,,,2026-07-09
 EmpirioLabs AI,Seedance-2.0-Mini,https://poe.com/seedance-2.0-mini,,,,text->text,,,,2026-06-24
 EmpirioLabs AI,Fugu-Ultra,https://poe.com/fugu-ultra,7.5758,45.4545,,"text,image->text",tools,,,2026-06-23
 EmpirioLabs AI,HappyHorse-1.1,https://poe.com/happyhorse-1.1,,,,text->text,,,,2026-06-22
@@ -141,7 +143,7 @@ Together AI,GLM-5.1-T,https://poe.com/glm-5.1-t,,,0,text->text,,,,2026-04-08
 Together AI,GPT-OSS-20B-T,https://poe.com/gpt-oss-20b-t,,,0.00045,"text,image->text",,,,2025-08-06
 Together AI,GPT-OSS-120B-T,https://poe.com/gpt-oss-120b-t,,,0.0015,"text,image->text",,128000,,2025-08-05
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text",web_search,,,2026-07-07
-XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",,1000000,,2026-05-01
+XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
 XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
 XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
