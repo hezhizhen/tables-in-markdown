@@ -145,7 +145,7 @@ Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->te
 Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,,,0,text->text,,,,2026-04-09
 Together AI,GPT-OSS-20B-T,https://poe.com/gpt-oss-20b-t,,,0.00045,"text,image->text",,,,2025-08-06
 Together AI,GPT-OSS-120B-T,https://poe.com/gpt-oss-120b-t,,,0.0015,"text,image->text",,128000,,2025-08-05
-XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",,,2026-07-07
+XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
 XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
