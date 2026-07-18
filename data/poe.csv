@@ -11,6 +11,7 @@ Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
 ElevenLabs,ElevenLabs-Music,https://poe.com/elevenlabs-music,,,,text->text,,2000,,2025-08-29
+EmpirioLabs AI,Kimi-K3-EL,https://poe.com/kimi-k3-el,3.0303,15.1515,,"text,image,video->text",tools,,,2026-07-16
 EmpirioLabs AI,Seed-2.1-Turbo,https://poe.com/seed-2.1-turbo,0.6364,3.1616,,"text,image,video->text",tools,,,2026-07-14
 EmpirioLabs AI,Seedream-5.0-Pro,https://poe.com/seedream-5.0-pro,,,,text->text,,,,2026-07-09
 EmpirioLabs AI,Step-3.7-Flash,https://poe.com/step-3.7-flash,0.202,1.1616,,"text,image,video->text",tools,,,2026-07-09
@@ -75,8 +76,9 @@ Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
 Google,Gemini-3-Flash,https://poe.com/gemini-3-flash,0.404,2.4242,,"text,image,video,audio->text",tools,1048576,65536,2025-10-07
 Meta,Muse-Spark-1.1,https://poe.com/muse-spark-1-1,1.2626,4.2929,,"text,image->text","tools, web_search",,,2026-07-09
+Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
 Novita AI,Hy3-N,https://poe.com/hy3-n,,,,text->text,tools,,,2026-07-06
-Novita AI,GLM-5.2,https://poe.com/glm-5.2,1.4141,4.4444,,text->text,tools,,,2026-06-16
+Novita AI,GLM-5.2-N,https://poe.com/glm-5.2-n,1.4141,4.4444,,text->text,tools,,,2026-06-16
 Novita AI,Minimax-M3-N,https://poe.com/minimax-m3-n,0.303,1.2121,,"text,image,video->text",tools,,,2026-06-12
 Novita AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image,video->text",tools,,,2026-06-12
 Novita AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image,video->text",tools,,,2026-04-20
@@ -137,6 +139,7 @@ Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
 Poe Tools,Code-Saver,https://poe.com/code-saver,,,,text->text,,,,2025-08-01
+Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0,text->text,,,,2026-06-13
 Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0,text->text,,,,2026-05-22
 Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0,text->text,,,,2026-05-15
