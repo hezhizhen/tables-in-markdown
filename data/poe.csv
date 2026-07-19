@@ -114,7 +114,6 @@ Novita AI,Qwen3-235B-A22B-N,https://poe.com/qwen3-235b-a22b-n,,,0.0018,text->tex
 Novita AI,DeepSeek-R1-N,https://poe.com/deepseek-r1-n,,,0.0061,text->text,tools,,,2025-08-01
 Novita AI,Llama-3.3-70B-N,https://poe.com/llama-3.3-70b-n,,,0.0014,text->text,tools,,,2025-08-01
 Novita AI,GLM-4.5-N,https://poe.com/glm-4.5-n,,,0.0058,text->text,tools,,,2025-07-31
-Open-Source-Lab,Deep-AI-Search,https://poe.com/deep-ai-search,,,,text->text,,,,2025-07-23
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,,"text,image->text,image","web_search, tools",1050000,128000,2026-03-05
