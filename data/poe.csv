@@ -126,9 +126,7 @@ OpenAI,GPT-5.2-Pro,https://poe.com/gpt-5.2-pro,19.0909,152.727,,"text,image->tex
 OpenAI,GPT-5.2,https://poe.com/gpt-5.2,1.5909,12.7273,,"text,image->text","web_search, tools",400000,128000,2025-12-08
 OpenAI,GPT-5.1-Codex-Max,https://poe.com/gpt-5.1-codex-max,1.1364,9.0909,,"text,image->text",tools,400000,128000,2025-12-08
 OpenAI,GPT-5.1-Instant,https://poe.com/gpt-5.1-instant,1.1364,9.0909,,"text,image->text","web_search, tools",128000,16384,2025-11-12
-OpenAI,GPT-5.1-Codex,https://poe.com/gpt-5.1-codex,1.1364,9.0909,,"text,image->text",tools,400000,128000,2025-11-12
 OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1364,9.0909,,"text,image->text","web_search, tools",400000,128000,2025-11-12
-OpenAI,GPT-5.1-Codex-Mini,https://poe.com/gpt-5.1-codex-mini,0.2273,1.8182,,text->text,tools,400000,128000,2025-11-12
 OpenAI,GPT-5-Pro,https://poe.com/gpt-5-pro,13.6364,109.091,,"text,image->text","web_search, tools",400000,128000,2025-10-06
 OpenAI,GPT-5-Codex,https://poe.com/gpt-5-codex,1.1364,9.0909,,"text,image->text",tools,400000,128000,2025-09-23
 OpenAI,GPT-5-Chat,https://poe.com/gpt-5-chat,1.1364,9.0909,,"text,image->text","web_search, tools",128000,16384,2025-08-07
