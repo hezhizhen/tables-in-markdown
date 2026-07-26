@@ -65,7 +65,6 @@ EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->te
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
 EmpirioLabs AI,Linkup-Deep-Search,https://poe.com/linkup-deep-search,,,,text->text,,,,2025-08-17
 EmpirioLabs AI,Linkup-Standard,https://poe.com/linkup-standard,,,,text->text,,,,2025-08-15
-EmpirioLabs AI,Deepgram-Nova-3,https://poe.com/deepgram-nova-3,,,,text->text,,,,2025-07-30
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
 Fireworks AI,GLM-5.1-FW,https://poe.com/glm-5.1-fw,,,0.0061,text->text,tools,,,2026-04-07
 Fireworks AI,GLM-4.7-FW,https://poe.com/glm-4.7-fw,,,0.0061,text->text,,,,2025-12-23
