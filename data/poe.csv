@@ -6,7 +6,6 @@ Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,,"text,
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,image->text","web_search, tools",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
-Anthropic,Claude-Opus-4.1,https://poe.com/claude-opus-4.1,12.8788,64.3939,,"text,image->text","web_search, tools",196608,32000,2025-08-05
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
@@ -112,9 +111,6 @@ Novita AI,DeepSeek-V3.1-N,https://poe.com/deepseek-v3.1-n,,,0.0058,text->text,to
 Novita AI,Qwen3-Coder-480B-N,https://poe.com/qwen3-coder-480b-n,,,0.0073,text->text,tools,,,2025-08-15
 Novita AI,GPT-OSS-120B-N,https://poe.com/gpt-oss-120b-n,,,0.0012,"text,image->text",tools,,,2025-08-06
 Novita AI,GPT-OSS-20B-N,https://poe.com/gpt-oss-20b-n,,,0.00045,"text,image->text",,,,2025-08-06
-Novita AI,Qwen3-235B-A22B-N,https://poe.com/qwen3-235b-a22b-n,,,0.0018,text->text,tools,,,2025-08-01
-Novita AI,DeepSeek-R1-N,https://poe.com/deepseek-r1-n,,,0.0061,text->text,tools,,,2025-08-01
-Novita AI,Llama-3.3-70B-N,https://poe.com/llama-3.3-70b-n,,,0.0014,text->text,tools,,,2025-08-01
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,,"text,image->text,image","web_search, tools",1050000,128000,2026-03-05
@@ -131,11 +127,10 @@ OpenAI,GPT-5-nano,https://poe.com/gpt-5-nano,0.0455,0.3636,,"text,image->text","
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
-Poe Tools,Code-Saver,https://poe.com/code-saver,,,,text->text,,,,2025-08-01
 Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0.0061,text->text,,,,2026-06-13
-Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0,text->text,,,,2026-05-22
-Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0,text->text,,,,2026-05-15
+Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0.0061,text->text,,,,2026-05-22
+Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0.003,text->text,,,,2026-05-15
 Together AI,Qwen3.6-Plus-T,https://poe.com/qwen3.6-plus-t,,,0.0061,text->text,,,,2026-04-30
 Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->text,,,,2026-04-24
 Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,,,0,text->text,,,,2026-04-09
