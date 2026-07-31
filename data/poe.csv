@@ -11,6 +11,8 @@ Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"t
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
+DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,,,,2026-07-30
+DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,,,,2026-07-30
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,,,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,,,,2026-07-13
@@ -91,38 +93,21 @@ Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",,,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",,,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
-Novita AI,Hy3-N,https://poe.com/hy3-n,,,,text->text,tools,,,2026-07-06
-Novita AI,GLM-5.2-N,https://poe.com/glm-5.2-n,1.4141,4.4444,,text->text,tools,,,2026-06-16
-Novita AI,Minimax-M3-N,https://poe.com/minimax-m3-n,0.303,1.2121,,"text,image,video->text",tools,,,2026-06-12
-Novita AI,Kimi-K2.7-Code-N,https://poe.com/kimi-k2.7-code-n,0.9596,4.0404,,"text,image,video->text",tools,,,2026-06-12
-Novita AI,Kimi-K2.6-N,https://poe.com/kimi-k2.6-n,0.9596,4.0404,,"text,image,video->text",tools,,,2026-04-20
 Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.101,0.303,,text->text,tools,,,2026-03-20
-Novita AI,MiniMax-M2.7-N,https://poe.com/minimax-m2.7-n,0.303,1.2121,,text->text,tools,,,2026-03-18
 Novita AI,Qwen3.5-397B-A17B,https://poe.com/qwen3.5-397b-a17b,0.6061,3.6364,,"text,image,video->text",tools,,,2026-02-16
-Novita AI,MiniMax-M2.5-N,https://poe.com/minimax-m2.5-n,0.303,1.2121,,text->text,tools,,,2026-02-12
-Novita AI,GLM-5-N,https://poe.com/glm-5-n,1.0101,3.2323,,text->text,tools,,,2026-02-11
 Novita AI,Qwen3-Coder-Next-N,https://poe.com/qwen3-coder-next-n,0.202,1.5152,,text->text,tools,,,2026-02-03
-Novita AI,Kimi-K2.5-N,https://poe.com/kimi-k2.5-n,0.6061,3.0303,,"text,image,video->text",tools,128000,,2026-01-27
 Novita AI,GLM-4.7-Flash-N,https://poe.com/glm-4.7-flash-n,0.0707,0.404,,text->text,tools,,,2026-01-19
-Novita AI,MiniMax-M2.1-N,https://poe.com/minimax-m2.1-n,0.303,1.2121,,text->text,tools,,,2025-12-26
-Novita AI,GLM-4.7-N,https://poe.com/glm-4.7-n,0.6061,2.2222,,text->text,tools,,,2025-12-22
 Novita AI,GLM-4.6V-N,https://poe.com/glm-4.6v-n,0.303,0.9091,,"text,image->text",tools,,,2025-12-09
-Novita AI,DeepSeek-V3.2-N,https://poe.com/deepseek-v3.2-n,0.2717,0.404,,text->text,tools,128000,,2025-12-01
-Novita AI,Kimi-K2-Thinking-N,https://poe.com/kimi-k2-thinking-n,0.6061,2.5253,,text->text,tools,,,2025-11-07
 Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,2.1313,8.5354,,text->text,tools,,,2025-11-05
-Novita AI,MiniMax-M2-N,https://poe.com/minimax-m2-n,0.303,1.2121,,text->text,tools,,,2025-10-28
-Novita AI,GLM-4.6-N,https://poe.com/glm-4.6-n,0.5556,2.2222,,text->text,tools,,,2025-09-30
 Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,,,0.0039,text->text,tools,,,2025-09-29
 Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0.9899,3.9899,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0.303,1.5152,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,DeepSeek-V3.1-Terminus-N,https://poe.com/deepseek-v3.1-terminus-n,0.2727,1.0101,,text->text,tools,,,2025-09-22
 Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Next-80B,https://poe.com/qwen3-next-80b,0.1515,1.5152,,text->text,tools,,,2025-09-11
-Novita AI,DeepSeek-V3.1-N,https://poe.com/deepseek-v3.1-n,,,0.0058,text->text,tools,,,2025-08-19
 Novita AI,Qwen3-Coder-480B-N,https://poe.com/qwen3-coder-480b-n,,,0.0073,text->text,tools,,,2025-08-15
-Novita AI,GPT-OSS-120B-N,https://poe.com/gpt-oss-120b-n,,,0.0012,"text,image->text",tools,,,2025-08-06
 Novita AI,GPT-OSS-20B-N,https://poe.com/gpt-oss-20b-n,,,0.00045,"text,image->text",,,,2025-08-06
 OpenAI,GPT-OSS-120B,https://poe.com/gpt-oss-120b,0.1515,0.6061,,text->text,tools,,,2026-07-23
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
