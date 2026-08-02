@@ -10,7 +10,6 @@ Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
-CerebrasAI,GPT-OSS-120B-CS,https://poe.com/gpt-oss-120b-cs,0.3535,0.7576,,text->text,tools,128000,,2025-08-06
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,,,,2026-07-30
 DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,,,,2026-07-30
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,,,2026-07-24
@@ -98,7 +97,6 @@ Novita AI,DeepSeek-V3.1-Terminus-N,https://poe.com/deepseek-v3.1-terminus-n,0.27
 Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Next-80B,https://poe.com/qwen3-next-80b,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Coder-480B-N,https://poe.com/qwen3-coder-480b-n,,,0.0073,text->text,tools,,,2025-08-15
-Novita AI,GPT-OSS-20B-N,https://poe.com/gpt-oss-20b-n,,,0.00045,"text,image->text",,,,2025-08-06
 OpenAI,GPT-OSS-120B,https://poe.com/gpt-oss-120b,0.1515,0.6061,,text->text,tools,,,2026-07-23
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
@@ -122,7 +120,6 @@ Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0.003,text->te
 Together AI,Qwen3.6-Plus-T,https://poe.com/qwen3.6-plus-t,,,0.0061,text->text,,,,2026-04-30
 Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->text,,,,2026-04-24
 Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,,,0,text->text,,,,2026-04-09
-Together AI,GPT-OSS-20B-T,https://poe.com/gpt-oss-20b-t,,,0.00045,"text,image->text",,,,2025-08-06
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
