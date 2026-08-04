@@ -16,6 +16,9 @@ DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,,,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,,,,2026-07-13
 ElevenLabs,ElevenLabs-Music,https://poe.com/elevenlabs-music,,,,text->text,,2000,,2025-08-29
+EmpirioLabs AI,Qwen3.8-Max-EL,https://poe.com/qwen3.8-max-el,2.0202,6.0606,,"text,image,video->text",tools,,,2026-08-03
+EmpirioLabs AI,MiniMax-H3-EL,https://poe.com/minimax-h3-el,,,,text->text,,,,2026-08-03
+EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.1414,0.2828,,text->text,tools,,,2026-08-01
 EmpirioLabs AI,Qwen3.7-Flash-EL,https://poe.com/qwen3.7-flash-el,0.0303,0.1313,,"text,image,video->text",tools,,,2026-07-28
 EmpirioLabs AI,Fugu-Ultra-v1.1-EL,https://poe.com/fugu-ultra-v1.1-el,5.0505,30.303,,"text,image->text",tools,,,2026-07-24
 EmpirioLabs AI,Kimi-K3-EL,https://poe.com/kimi-k3-el,3.0303,15.1515,,"text,image,video->text",tools,,,2026-07-16
@@ -93,7 +96,6 @@ Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,2.1313,8.5354,,text->text,tool
 Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,,,0.0039,text->text,tools,,,2025-09-29
 Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0.9899,3.9899,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0.303,1.5152,,"text,image,video->text",tools,,,2025-09-24
-Novita AI,DeepSeek-V3.1-Terminus-N,https://poe.com/deepseek-v3.1-terminus-n,0.2727,1.0101,,text->text,tools,,,2025-09-22
 Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Next-80B,https://poe.com/qwen3-next-80b,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Coder-480B-N,https://poe.com/qwen3-coder-480b-n,,,0.0073,text->text,tools,,,2025-08-15
@@ -101,7 +103,6 @@ OpenAI,GPT-OSS-120B,https://poe.com/gpt-oss-120b,0.1515,0.6061,,text->text,tools
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
 OpenAI,GPT-5.4-Pro,https://poe.com/gpt-5.4-pro,27.2727,163.636,,"text,image->text,image","web_search, tools",1050000,128000,2026-03-05
-OpenAI,GPT-5.3-Instant,https://poe.com/gpt-5.3-instant,1.5909,12.7273,,"text,image->text","web_search, tools",128000,16384,2026-03-03
 OpenAI,GPT-5.4,https://poe.com/gpt-5.4,2.2727,13.6364,,"text,image->text,image","web_search, tools",1050000,128000,2026-02-26
 OpenAI,GPT-5.3-Codex,https://poe.com/gpt-5.3-codex,1.5909,12.7273,,"text,image->text",tools,400000,128000,2026-02-10
 OpenAI,GPT-5.2-Instant,https://poe.com/gpt-5.2-instant,1.5909,12.7273,,"text,image->text","web_search, tools",128000,16384,2025-12-11
