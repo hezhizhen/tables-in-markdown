@@ -16,6 +16,8 @@ DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,,,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,,,,2026-07-13
 ElevenLabs,ElevenLabs-Music,https://poe.com/elevenlabs-music,,,,text->text,,2000,,2025-08-29
+EmpirioLabs AI,Muse-Glimmer-30B-EL,https://poe.com/muse-glimmer-30b-el,,,,"text,image->text",tools,,,2026-08-10
+EmpirioLabs AI,Qwen-Image-3.0-EL,https://poe.com/qwen-image-3.0-el,,,,text->text,,,,2026-08-08
 EmpirioLabs AI,Seedance-2.5-EL,https://poe.com/seedance-2.5-el,,,,text->text,,,,2026-08-07
 EmpirioLabs AI,Qwen3.8-Max-EL,https://poe.com/qwen3.8-max-el,2.0202,6.0606,,"text,image,video->text",tools,,,2026-08-03
 EmpirioLabs AI,MiniMax-H3-EL,https://poe.com/minimax-h3-el,,,,text->text,,,,2026-08-03
@@ -66,7 +68,6 @@ EmpirioLabs AI,Mistral-Medium-3.1,https://poe.com/mistral-medium-3.1,0.5253,2.62
 EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,,,2025-09-16
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
 EmpirioLabs AI,Linkup-Deep-Search,https://poe.com/linkup-deep-search,,,,text->text,,,,2025-08-17
-EmpirioLabs AI,Linkup-Standard,https://poe.com/linkup-standard,,,,text->text,,,,2025-08-15
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
 Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,1.5152,7.5758,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
@@ -99,7 +100,6 @@ Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0.9899,3.989
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0.303,1.5152,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
 Novita AI,Qwen3-Next-80B,https://poe.com/qwen3-next-80b,0.1515,1.5152,,text->text,tools,,,2025-09-11
-Novita AI,Qwen3-Coder-480B-N,https://poe.com/qwen3-coder-480b-n,,,0.0073,text->text,tools,,,2025-08-15
 OpenAI,GPT-OSS-120B,https://poe.com/gpt-oss-120b,0.1515,0.6061,,text->text,tools,,,2026-07-23
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
