@@ -10,12 +10,14 @@ Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
+DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,,,2026-08-13
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,,,2026-07-30
 DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,tools,,,2026-07-30
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,,,2026-07-13
 ElevenLabs,ElevenLabs-Music,https://poe.com/elevenlabs-music,,,,text->text,,2000,,2025-08-29
+EmpirioLabs AI,Grok-Imagine-Image-2,https://poe.com/grok-imagine-image-2,,,,text->text,,,,2026-08-12
 EmpirioLabs AI,Muse-Glimmer-30B-EL,https://poe.com/muse-glimmer-30b-el,,,,"text,image->text",tools,,,2026-08-10
 EmpirioLabs AI,Qwen-Image-3.0-EL,https://poe.com/qwen-image-3.0-el,,,,text->text,,,,2026-08-08
 EmpirioLabs AI,Seedance-2.5-EL,https://poe.com/seedance-2.5-el,,,,text->text,,,,2026-08-07
@@ -24,6 +26,7 @@ EmpirioLabs AI,MiniMax-H3-EL,https://poe.com/minimax-h3-el,,,,text->text,,,,2026
 EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.1414,0.2828,,text->text,tools,,,2026-08-01
 EmpirioLabs AI,Qwen3.7-Flash-EL,https://poe.com/qwen3.7-flash-el,0.0303,0.1313,,"text,image,video->text",tools,,,2026-07-28
 EmpirioLabs AI,Fugu-Ultra-v1.1-EL,https://poe.com/fugu-ultra-v1.1-el,5.0505,30.303,,"text,image->text",tools,,,2026-07-24
+EmpirioLabs AI,Qwen-Audio-3.0-TTS,https://poe.com/qwen-audio-3.0-tts,,,,text->text,,,,2026-07-23
 EmpirioLabs AI,Kimi-K3-EL,https://poe.com/kimi-k3-el,3.0303,15.1515,,"text,image,video->text",tools,,,2026-07-16
 EmpirioLabs AI,Seed-2.1-Turbo,https://poe.com/seed-2.1-turbo,0.6364,3.1616,,"text,image,video->text",tools,,,2026-07-14
 EmpirioLabs AI,Seedream-5.0-Pro,https://poe.com/seedream-5.0-pro,,,,text->text,,,,2026-07-09
@@ -64,12 +67,14 @@ EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,te
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 EmpirioLabs AI,Gemini-2.5-Pro-TTS,https://poe.com/gemini-2.5-pro-tts,,,,text->text,,,,2025-09-26
+EmpirioLabs AI,Gemini-2.5-Flash-TTS,https://poe.com/gemini-2.5-flash-tts,,,,text->text,,,,2025-09-23
 EmpirioLabs AI,Mistral-Medium-3.1,https://poe.com/mistral-medium-3.1,0.5253,2.6263,,"text,image->text",tools,,,2025-09-20
 EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,,,2025-09-16
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
-Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,1.5152,7.5758,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
+Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
+Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
 Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,image,video->text",tools,1048576,65536,2026-05-19
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
