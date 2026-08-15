@@ -17,6 +17,8 @@ DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,,,2026-07-13
 ElevenLabs,ElevenLabs-Music,https://poe.com/elevenlabs-music,,,,text->text,,2000,,2025-08-29
+EmpirioLabs AI,Qwen3.8-27B-EL,https://poe.com/qwen3.8-27b-el,,,,"text,image,video->text",tools,,,2026-08-14
+EmpirioLabs AI,DeepSeek-V4-Pro-0813-EL,https://poe.com/deepseek-v4-pro-0813-el,1.3333,4,,text->text,tools,,,2026-08-14
 EmpirioLabs AI,Grok-Imagine-Image-2,https://poe.com/grok-imagine-image-2,,,,text->text,,,,2026-08-12
 EmpirioLabs AI,Muse-Glimmer-30B-EL,https://poe.com/muse-glimmer-30b-el,,,,"text,image->text",tools,,,2026-08-10
 EmpirioLabs AI,Qwen-Image-3.0-EL,https://poe.com/qwen-image-3.0-el,,,,text->text,,,,2026-08-08
