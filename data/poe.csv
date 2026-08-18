@@ -135,7 +135,6 @@ XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051
 XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
 XAI,Grok-4-Fast-Non-Reasoning,https://poe.com/grok-4-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
 XAI,Grok-4-Fast-Reasoning,https://poe.com/grok-4-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
-XAI,Grok-Code-Fast-1,https://poe.com/grok-code-fast-1,0.202,1.5152,,text->text,tools,256000,,2025-08-22
 Xiaomi,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,,text->text,tools,,,2026-07-27
 Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,,,2026-07-27
 Z.ai,GLM-4.7,https://poe.com/glm-4.7,0.6061,2.2222,,text->text,tools,,,2026-07-27
