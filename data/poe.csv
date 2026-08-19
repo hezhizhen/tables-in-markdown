@@ -101,7 +101,7 @@ Novita AI,Qwen3-Coder-Next-N,https://poe.com/qwen3-coder-next-n,0.202,1.5152,,te
 Novita AI,GLM-4.7-Flash-N,https://poe.com/glm-4.7-flash-n,0.0707,0.404,,text->text,tools,,,2026-01-19
 Novita AI,GLM-4.6V-N,https://poe.com/glm-4.6v-n,0.303,0.9091,,"text,image->text",tools,,,2025-12-09
 Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,2.1313,8.5354,,text->text,tools,,,2025-11-05
-Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,,,0.0039,text->text,tools,,,2025-09-29
+Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,,,0.0039,text->text,tools,160000,,2025-09-29
 Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0.9899,3.9899,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0.303,1.5152,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
