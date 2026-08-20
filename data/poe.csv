@@ -25,7 +25,7 @@ EmpirioLabs AI,Qwen-Image-3.0-EL,https://poe.com/qwen-image-3.0-el,,,,text->text
 EmpirioLabs AI,Seedance-2.5-EL,https://poe.com/seedance-2.5-el,,,,text->text,,,,2026-08-07
 EmpirioLabs AI,Qwen3.8-Max-EL,https://poe.com/qwen3.8-max-el,2.0202,6.0606,,"text,image,video->text",tools,,,2026-08-03
 EmpirioLabs AI,MiniMax-H3-EL,https://poe.com/minimax-h3-el,,,,text->text,,,,2026-08-03
-EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.1414,0.2828,,text->text,tools,,,2026-08-01
+EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.4283,1.2848,,text->text,tools,,,2026-08-01
 EmpirioLabs AI,Qwen3.7-Flash-EL,https://poe.com/qwen3.7-flash-el,0.0303,0.1313,,"text,image,video->text",tools,,,2026-07-28
 EmpirioLabs AI,Fugu-Ultra-v1.1-EL,https://poe.com/fugu-ultra-v1.1-el,5.0505,30.303,,"text,image->text",tools,,,2026-07-24
 EmpirioLabs AI,Qwen-Audio-3.0-TTS,https://poe.com/qwen-audio-3.0-tts,,,,text->text,,,,2026-07-23
