@@ -1,6 +1,6 @@
 Provider,Model,Link,Input ($/M),Output ($/M),Request ($/req),Modality,Features,Context Window,Max Output,Created
-Alibaba,Qwen3.7-Plus,https://poe.com/qwen3.7-plus,0.404,1.6162,,"text,image->text",tools,,,2026-07-24
-Alibaba,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0.5051,3.0303,,"text,image->text",tools,,,2026-07-21
+Alibaba,Qwen3.7-Plus,https://poe.com/qwen3.7-plus,0.404,1.6162,,"text,image->text",tools,262000,,2026-07-24
+Alibaba,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0.5051,3.0303,,"text,image->text",tools,1000000,,2026-07-21
 Anthropic,Claude-Opus-4.8,https://poe.com/claude-opus-4.8,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-05-28
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"text,image->text","web_search, tools",983040,128000,2026-02-05
@@ -10,70 +10,70 @@ Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
-DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,,,2026-08-13
-DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,,,2026-07-30
-DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,tools,,,2026-07-30
-DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,,,2026-07-24
-DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,,,2026-07-21
-DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,,,2026-07-13
-EmpirioLabs AI,GLM-5.3-EL,https://poe.com/glm-5.3-el,1.4141,4.4444,,text->text,tools,,,2026-08-19
-EmpirioLabs AI,Qwen3.8-27B-EL,https://poe.com/qwen3.8-27b-el,0.1717,0.5051,,"text,image,video->text",tools,,,2026-08-14
-EmpirioLabs AI,DeepSeek-V4-Pro-0813-EL,https://poe.com/deepseek-v4-pro-0813-el,1.3333,4,,text->text,tools,,,2026-08-14
+DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,163840,,2026-08-13
+DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,1048576,,2026-07-30
+DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,tools,1000000,,2026-07-30
+DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,131072,,2026-07-24
+DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,128000,,2026-07-21
+DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,164000,,2026-07-13
+EmpirioLabs AI,GLM-5.3-EL,https://poe.com/glm-5.3-el,1.4141,4.4444,,text->text,tools,1000000,,2026-08-19
+EmpirioLabs AI,Qwen3.8-27B-EL,https://poe.com/qwen3.8-27b-el,0.1717,0.5051,,"text,image,video->text",tools,262144,,2026-08-14
+EmpirioLabs AI,DeepSeek-V4-Pro-0813-EL,https://poe.com/deepseek-v4-pro-0813-el,1.3333,4,,text->text,tools,1000000,,2026-08-14
 EmpirioLabs AI,Grok-Imagine-Image-2,https://poe.com/grok-imagine-image-2,,,,text->text,,,,2026-08-12
-EmpirioLabs AI,Muse-Glimmer-30B-EL,https://poe.com/muse-glimmer-30b-el,0.202,0.8081,,"text,image->text",tools,,,2026-08-10
+EmpirioLabs AI,Muse-Glimmer-30B-EL,https://poe.com/muse-glimmer-30b-el,0.202,0.8081,,"text,image->text",tools,131072,,2026-08-10
 EmpirioLabs AI,Qwen-Image-3.0-EL,https://poe.com/qwen-image-3.0-el,,,,text->text,,,,2026-08-08
 EmpirioLabs AI,Seedance-2.5-EL,https://poe.com/seedance-2.5-el,,,,text->text,,,,2026-08-07
-EmpirioLabs AI,Qwen3.8-Max-EL,https://poe.com/qwen3.8-max-el,2.0202,6.0606,,"text,image,video->text",tools,,,2026-08-03
+EmpirioLabs AI,Qwen3.8-Max-EL,https://poe.com/qwen3.8-max-el,2.0202,6.0606,,"text,image,video->text",tools,1000000,,2026-08-03
 EmpirioLabs AI,MiniMax-H3-EL,https://poe.com/minimax-h3-el,,,,text->text,,,,2026-08-03
-EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.4283,1.2848,,text->text,tools,,,2026-08-01
-EmpirioLabs AI,Qwen3.7-Flash-EL,https://poe.com/qwen3.7-flash-el,0.0303,0.1313,,"text,image,video->text",tools,,,2026-07-28
-EmpirioLabs AI,Fugu-Ultra-v1.1-EL,https://poe.com/fugu-ultra-v1.1-el,5.0505,30.303,,"text,image->text",tools,,,2026-07-24
+EmpirioLabs AI,DS-V4-Flash-0731-EL,https://poe.com/ds-v4-flash-0731-el,0.4283,1.2848,,text->text,tools,1000000,,2026-08-01
+EmpirioLabs AI,Qwen3.7-Flash-EL,https://poe.com/qwen3.7-flash-el,0.0303,0.1313,,"text,image,video->text",tools,1000000,,2026-07-28
+EmpirioLabs AI,Fugu-Ultra-v1.1-EL,https://poe.com/fugu-ultra-v1.1-el,5.0505,30.303,,"text,image->text",tools,1000000,,2026-07-24
 EmpirioLabs AI,Qwen-Audio-3.0-TTS,https://poe.com/qwen-audio-3.0-tts,,,,text->text,,,,2026-07-23
-EmpirioLabs AI,Kimi-K3-EL,https://poe.com/kimi-k3-el,3.0303,15.1515,,"text,image,video->text",tools,,,2026-07-16
-EmpirioLabs AI,Seed-2.1-Turbo,https://poe.com/seed-2.1-turbo,0.6364,3.1616,,"text,image,video->text",tools,,,2026-07-14
+EmpirioLabs AI,Kimi-K3-EL,https://poe.com/kimi-k3-el,3.0303,15.1515,,"text,image,video->text",tools,1048576,,2026-07-16
+EmpirioLabs AI,Seed-2.1-Turbo,https://poe.com/seed-2.1-turbo,0.6364,3.1616,,"text,image,video->text",tools,256000,,2026-07-14
 EmpirioLabs AI,Seedream-5.0-Pro,https://poe.com/seedream-5.0-pro,,,,text->text,,,,2026-07-09
-EmpirioLabs AI,Step-3.7-Flash-EL,https://poe.com/step-3.7-flash-el,0.202,1.1616,,"text,image,video->text",tools,,,2026-07-09
+EmpirioLabs AI,Step-3.7-Flash-EL,https://poe.com/step-3.7-flash-el,0.202,1.1616,,"text,image,video->text",tools,262144,,2026-07-09
 EmpirioLabs AI,Seedance-2.0-Mini,https://poe.com/seedance-2.0-mini,,,,text->text,,,,2026-06-24
-EmpirioLabs AI,Fugu-Ultra-v1.0-EL,https://poe.com/fugu-ultra-v1.0-el,7.5758,45.4545,,"text,image->text",tools,,,2026-06-23
+EmpirioLabs AI,Fugu-Ultra-v1.0-EL,https://poe.com/fugu-ultra-v1.0-el,7.5758,45.4545,,"text,image->text",tools,1000000,,2026-06-23
 EmpirioLabs AI,HappyHorse-1.1,https://poe.com/happyhorse-1.1,,,,text->text,,,,2026-06-22
 EmpirioLabs AI,Kling-3.0-Turbo,https://poe.com/kling-3.0-turbo,,,,text->text,,,,2026-06-18
 EmpirioLabs AI,Grok-Imgn-Video-1.5,https://poe.com/grok-imgn-video-1.5,,,,text->text,,,,2026-05-31
-EmpirioLabs AI,Qwen3.7-Max-EL,https://poe.com/qwen3.7-max-el,2.5253,7.5758,,text->text,tools,,,2026-05-21
-EmpirioLabs AI,Gemma-4-26B-A4B-EL,https://poe.com/gemma-4-26b-a4b-el,0.0505,0.2929,,"text,image,video->text",tools,,,2026-05-17
-EmpirioLabs AI,Qwen3.5-9B-EL,https://poe.com/qwen3.5-9b-el,0.0909,0.1313,,"text,image,video->text",tools,,,2026-05-17
-EmpirioLabs AI,Qwen3.5-4B-EL,https://poe.com/qwen3.5-4b-el,0.0404,0.0707,,"text,image,video->text",tools,,,2026-05-17
-EmpirioLabs AI,DeepSeek-V4-Pro-E,https://poe.com/deepseek-v4-pro-e,2.4242,4.8485,,text->text,tools,,,2026-05-13
-EmpirioLabs AI,DeepSeek-V4-Flash-E,https://poe.com/deepseek-v4-flash-e,0.202,0.404,,text->text,tools,,,2026-05-13
+EmpirioLabs AI,Qwen3.7-Max-EL,https://poe.com/qwen3.7-max-el,2.5253,7.5758,,text->text,tools,1000000,,2026-05-21
+EmpirioLabs AI,Gemma-4-26B-A4B-EL,https://poe.com/gemma-4-26b-a4b-el,0.0505,0.2929,,"text,image,video->text",tools,262144,,2026-05-17
+EmpirioLabs AI,Qwen3.5-9B-EL,https://poe.com/qwen3.5-9b-el,0.0909,0.1313,,"text,image,video->text",tools,262144,,2026-05-17
+EmpirioLabs AI,Qwen3.5-4B-EL,https://poe.com/qwen3.5-4b-el,0.0404,0.0707,,"text,image,video->text",tools,262144,,2026-05-17
+EmpirioLabs AI,DeepSeek-V4-Pro-E,https://poe.com/deepseek-v4-pro-e,2.4242,4.8485,,text->text,tools,1000000,,2026-05-13
+EmpirioLabs AI,DeepSeek-V4-Flash-E,https://poe.com/deepseek-v4-flash-e,0.202,0.404,,text->text,tools,1000000,,2026-05-13
 EmpirioLabs AI,HappyHorse-1.0-EL,https://poe.com/happyhorse-1.0-el,,,,text->text,,,,2026-04-27
 EmpirioLabs AI,MiMo-V2.5-EL,https://poe.com/mimo-v2.5-el,,,,text->text,,,,2026-04-24
-EmpirioLabs AI,Seed-2.0-Code,https://poe.com/seed-2.0-code,0.6313,3.7879,,"text,image,video->text",tools,,,2026-04-22
-EmpirioLabs AI,Qwen3.6-Max-Preview,https://poe.com/qwen3.6-max-preview,1.3131,7.8788,,text->text,tools,,,2026-04-20
+EmpirioLabs AI,Seed-2.0-Code,https://poe.com/seed-2.0-code,0.6313,3.7879,,"text,image,video->text",tools,256000,,2026-04-22
+EmpirioLabs AI,Qwen3.6-Max-Preview,https://poe.com/qwen3.6-max-preview,1.3131,7.8788,,text->text,tools,256000,,2026-04-20
 EmpirioLabs AI,Seedream-5.0-Lite-EL,https://poe.com/seedream-5.0-lite-el,,,,text->text,,,,2026-04-20
-EmpirioLabs AI,DeepSeek-V3.2-EL,https://poe.com/deepseek-v3.2-el,0.5758,1.7273,,text->text,tools,,,2026-04-06
+EmpirioLabs AI,DeepSeek-V3.2-EL,https://poe.com/deepseek-v3.2-el,0.5758,1.7273,,text->text,tools,131072,,2026-04-06
 EmpirioLabs AI,Qwen3.5-Omni-Flash,https://poe.com/qwen3.5-omni-flash,,,,"text,video,audio->text",,,,2026-03-30
 EmpirioLabs AI,Qwen3.5-Omni-Plus,https://poe.com/qwen3.5-omni-plus,,,,"text,video,audio->text",,,,2026-03-30
-EmpirioLabs AI,Seed-2.0-Pro,https://poe.com/seed-2.0-pro,0.6313,3.7879,,"text,image,video->text",tools,,,2026-03-26
+EmpirioLabs AI,Seed-2.0-Pro,https://poe.com/seed-2.0-pro,0.6313,3.7879,,"text,image,video->text",tools,256000,,2026-03-26
 EmpirioLabs AI,Mistral-Small-4,https://poe.com/mistral-small-4,,,,text->text,,,,2026-03-18
-EmpirioLabs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.3157,2.5253,,"text,image,video->text",tools,,,2026-03-06
-EmpirioLabs AI,Qwen3.5-Flash-EL,https://poe.com/qwen3.5-flash-el,0.0909,0.3717,,"text,image,video->text",tools,,,2026-02-24
+EmpirioLabs AI,Seed-2.0-Lite,https://poe.com/seed-2.0-lite,0.3157,2.5253,,"text,image,video->text",tools,256000,,2026-03-06
+EmpirioLabs AI,Qwen3.5-Flash-EL,https://poe.com/qwen3.5-flash-el,0.0909,0.3717,,"text,image,video->text",tools,1000000,,2026-02-24
 EmpirioLabs AI,Perplexity-Search,https://poe.com/perplexity-search,,,,text->text,,,,2026-02-22
-EmpirioLabs AI,Seed-2.0-Mini,https://poe.com/seed-2.0-mini,0.1263,0.5051,,"text,image,video->text",tools,,,2026-02-21
-EmpirioLabs AI,Qwen3.5-Plus-EL,https://poe.com/qwen3.5-plus-el,0.3636,2.2303,,"text,image,video->text",tools,,,2026-02-16
+EmpirioLabs AI,Seed-2.0-Mini,https://poe.com/seed-2.0-mini,0.1263,0.5051,,"text,image,video->text",tools,256000,,2026-02-21
+EmpirioLabs AI,Qwen3.5-Plus-EL,https://poe.com/qwen3.5-plus-el,0.3636,2.2303,,"text,image,video->text",tools,1000000,,2026-02-16
 EmpirioLabs AI,Perplexity-Adv-Deep-Research,https://poe.com/perplexity-adv-deep-research,,,,text->text,,,,2026-02-11
-EmpirioLabs AI,Qwen3-Max-Thinking-EL,https://poe.com/qwen3-max-thinking-el,1.0909,5.5758,,text->text,tools,,,2026-01-26
+EmpirioLabs AI,Qwen3-Max-Thinking-EL,https://poe.com/qwen3-max-thinking-el,1.0909,5.5758,,text->text,tools,252000,,2026-01-26
 EmpirioLabs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,,"text,image,video->text",tools,,,2025-12-04
-EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,,,2025-11-26
+EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,32000,,2025-11-26
 EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
-EmpirioLabs AI,Qwen3-Max-Preview-EL,https://poe.com/qwen3-max-preview-el,1.0909,4.8485,,text->text,,,,2025-11-24
+EmpirioLabs AI,Qwen3-Max-Preview-EL,https://poe.com/qwen3-max-preview-el,1.0909,4.8485,,text->text,,252000,,2025-11-24
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 EmpirioLabs AI,Gemini-2.5-Pro-TTS,https://poe.com/gemini-2.5-pro-tts,,,,text->text,,,,2025-09-26
 EmpirioLabs AI,Gemini-2.5-Flash-TTS,https://poe.com/gemini-2.5-flash-tts,,,,text->text,,,,2025-09-23
 EmpirioLabs AI,Mistral-Medium-3.1,https://poe.com/mistral-medium-3.1,0.5253,2.6263,,"text,image->text",tools,,,2025-09-20
-EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,,,2025-09-16
+EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,256000,,2025-09-16
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
-Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,,,2026-04-16
+Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
 Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
@@ -82,19 +82,20 @@ Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,2621
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
 Google,Gemini-3-Flash,https://poe.com/gemini-3-flash,0.404,2.4242,,"text,image,video,audio->text",tools,1048576,65536,2025-10-07
-Meta,Muse-Spark-1.1,https://poe.com/muse-spark-1-1,1.2626,4.2929,,"text,image->text","tools, web_search",,,2026-07-09
-MiniMax,MiniMax-M2,https://poe.com/minimax-m2,0.303,1.2121,,text->text,tools,,,2026-07-24
-MiniMax,MiniMax-M2.1,https://poe.com/minimax-m2.1,0.303,1.2121,,text->text,tools,,,2026-07-24
-MiniMax,MiniMax-M2.5,https://poe.com/minimax-m2.5,0.2727,0.9596,,text->text,tools,,,2026-07-24
-MiniMax,MiniMax-M2.7,https://poe.com/minimax-m2.7,0.303,1.2121,,text->text,tools,,,2026-07-24
-MiniMax,MiniMax-M3,https://poe.com/minimax-m3,0.303,1.2121,,"text,image->text",tools,,,2026-07-22
-Moonshot AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.4747,2.0202,,text->text,tools,,,2026-07-24
-Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text",tools,,,2026-07-24
-Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,,,2026-07-24
-Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,,,2026-07-24
+Meta,Muse-Spark-1.1,https://poe.com/muse-spark-1-1,1.2626,4.2929,,"text,image->text","tools, web_search",1048576,,2026-07-09
+MiniMax,MiniMax-M2,https://poe.com/minimax-m2,0.303,1.2121,,text->text,tools,204800,,2026-07-24
+MiniMax,MiniMax-M2.1,https://poe.com/minimax-m2.1,0.303,1.2121,,text->text,tools,204800,,2026-07-24
+MiniMax,MiniMax-M2.5,https://poe.com/minimax-m2.5,0.2727,0.9596,,text->text,tools,196608,,2026-07-24
+MiniMax,MiniMax-M2.7,https://poe.com/minimax-m2.7,0.303,1.2121,,text->text,tools,196000,,2026-07-24
+MiniMax,MiniMax-M3,https://poe.com/minimax-m3,0.303,1.2121,,"text,image->text",tools,512000,,2026-07-22
+Moonshot AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.4747,2.0202,,text->text,tools,216144,,2026-07-24
+Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text",tools,262114,,2026-07-24
+Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
+Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
 Novita AI,Hy3-N,https://poe.com/hy3-n,,,,text->text,tools,,,2026-07-06
 Novita AI,GLM-5.2-N,https://poe.com/glm-5.2-n,1.4141,4.4444,,text->text,tools,,,2026-06-16
+Novita AI,Kimi-K2.7-Code-N,https://poe.com/kimi-k2.7-code-n,0.9596,4.0404,,"text,image,video->text",tools,,,2026-06-12
 Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.101,0.303,,text->text,tools,,,2026-03-20
@@ -121,7 +122,7 @@ OpenAI,GPT-5-Pro,https://poe.com/gpt-5-pro,13.6364,109.091,,"text,image->text","
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
-Tencent,Hy3,https://poe.com/hy3,0.1414,0.5859,,text->text,tools,,,2026-07-27
+Tencent,Hy3,https://poe.com/hy3,0.1414,0.5859,,text->text,tools,262144,,2026-07-27
 Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0.0061,text->text,,,,2026-06-13
 Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0.0061,text->text,,,,2026-05-22
@@ -137,12 +138,12 @@ XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051
 XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
 XAI,Grok-4-Fast-Non-Reasoning,https://poe.com/grok-4-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
 XAI,Grok-4-Fast-Reasoning,https://poe.com/grok-4-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
-Xiaomi,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,,text->text,tools,,,2026-07-27
-Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,,,2026-07-27
-Z.ai,GLM-4.7,https://poe.com/glm-4.7,0.6061,2.2222,,text->text,tools,,,2026-07-27
-Z.ai,GLM-5,https://poe.com/glm-5,1.0101,3.2323,,text->text,tools,,,2026-07-27
-Z.ai,GLM-5.1,https://poe.com/glm-5.1,1.4141,4.4444,,text->text,tools,,,2026-07-27
-Z.ai,GLM-5.2,https://poe.com/glm-5.2,1.5152,4.5455,,text->text,tools,,,2026-07-17
+Xiaomi,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,,text->text,tools,1048576,,2026-07-27
+Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,204800,,2026-07-27
+Z.ai,GLM-4.7,https://poe.com/glm-4.7,0.6061,2.2222,,text->text,tools,200000,,2026-07-27
+Z.ai,GLM-5,https://poe.com/glm-5,1.0101,3.2323,,text->text,tools,202800,,2026-07-27
+Z.ai,GLM-5.1,https://poe.com/glm-5.1,1.4141,4.4444,,text->text,tools,202000,,2026-07-27
+Z.ai,GLM-5.2,https://poe.com/glm-5.2,1.5152,4.5455,,text->text,tools,256000,,2026-07-17
 fal,Qwen-Image-2-Pro,https://poe.com/qwen-image-2-pro,,,,text->text,,,,2026-03-05
 fal,Qwen-Image-2,https://poe.com/qwen-image-2,,,,text->text,,,,2026-03-05
 fal,Pika-v1.5-Effects,https://poe.com/pika-v1.5-effects,,,,text->text,,,,2025-12-12
