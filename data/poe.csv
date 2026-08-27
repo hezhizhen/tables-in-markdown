@@ -16,6 +16,8 @@ DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,131072,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,128000,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,164000,,2026-07-13
+EmpirioLabs AI,GLM-5.3-Flash-EL,https://poe.com/glm-5.3-flash-el,0.0758,0.2525,,"text,image,video->text",tools,1000000,,2026-08-26
+EmpirioLabs AI,Qwen3.8-Flash-EL,https://poe.com/qwen3.8-flash-el,0.1616,0.4747,,"text,image,video->text",tools,1000000,,2026-08-26
 EmpirioLabs AI,GLM-5.3-EL,https://poe.com/glm-5.3-el,1.4141,4.4444,,text->text,tools,1000000,,2026-08-19
 EmpirioLabs AI,Qwen3.8-27B-EL,https://poe.com/qwen3.8-27b-el,0.1717,0.5051,,"text,image,video->text",tools,262144,,2026-08-14
 EmpirioLabs AI,DeepSeek-V4-Pro-0813-EL,https://poe.com/deepseek-v4-pro-0813-el,1.3333,4,,text->text,tools,1000000,,2026-08-14
@@ -93,6 +95,11 @@ Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
+Novita AI,GLM-5.3-flash,https://poe.com/glm-5.3-flash,0.1515,0.5051,,"text,image,video->text",tools,,,2026-08-26
+Novita AI,xiaomimimo-mimo-v2-5,https://poe.com/xiaomimimo-mimo-v2-5,0.1697,0.3394,,"text,image,video->text",tools,,,2026-08-25
+Novita AI,DeepSeek-V4-Pro-0813,https://poe.com/deepseek-v4-pro-0813,1.3333,4,,text->text,tools,,,2026-08-14
+Novita AI,Ling-3-0-flash,https://poe.com/ling-3-0-flash,0.0606,0.1818,,text->text,tools,,,2026-08-14
+Novita AI,DeepSeek-V4-0731,https://poe.com/deepseek-v4-0731,0.1414,0.2828,,text->text,tools,,,2026-08-01
 Novita AI,Hy3-N,https://poe.com/hy3-n,,,,text->text,tools,,,2026-07-06
 Novita AI,GLM-5.2-N,https://poe.com/glm-5.2-n,1.4141,4.4444,,text->text,tools,,,2026-06-16
 Novita AI,Kimi-K2.7-Code-N,https://poe.com/kimi-k2.7-code-n,0.9596,4.0404,,"text,image,video->text",tools,,,2026-06-12
@@ -134,10 +141,6 @@ XAI,Grok-4.6,https://poe.com/grok-4.6,2.0202,6.0606,,"text,image->text","web_sea
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
-XAI,Grok-4.1-Fast-Reasoning,https://poe.com/grok-4.1-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
-XAI,Grok-4.1-Fast-Non-Reasoning,https://poe.com/grok-4.1-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-11-19
-XAI,Grok-4-Fast-Non-Reasoning,https://poe.com/grok-4-fast-non-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
-XAI,Grok-4-Fast-Reasoning,https://poe.com/grok-4-fast-reasoning,0.202,0.5051,,"text,image->text",tools,2000000,,2025-09-16
 Xiaomi,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,,text->text,tools,1048576,,2026-07-27
 Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,204800,,2026-07-27
 Z.ai,GLM-4.7,https://poe.com/glm-4.7,0.6061,2.2222,,text->text,tools,200000,,2026-07-27
