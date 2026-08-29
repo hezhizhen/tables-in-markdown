@@ -108,7 +108,7 @@ Novita AI,Kimi-K2.7-Code-N,https://poe.com/kimi-k2.7-code-n,0.9596,4.0404,,"text
 Novita AI,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1313,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,Gemma-4-31B-N,https://poe.com/gemma-4-31b-n,0.1414,0.404,,"text,image->text",,,,2026-04-02
 Novita AI,MiMo-V2-Flash,https://poe.com/mimo-v2-flash,0.101,0.303,,text->text,tools,,,2026-03-20
-Novita AI,Qwen3.5-397B-A17B,https://poe.com/qwen3.5-397b-a17b,0.6061,3.6364,,"text,image,video->text",tools,,,2026-02-16
+Novita AI,Qwen3.5-397B-A17B,https://poe.com/qwen3.5-397b-a17b,0.6061,3.6364,,"text,image,video->text",tools,262144,,2026-02-16
 Novita AI,Qwen3-Coder-Next-N,https://poe.com/qwen3-coder-next-n,0.202,1.5152,,text->text,tools,,,2026-02-03
 Novita AI,GLM-4.7-Flash-N,https://poe.com/glm-4.7-flash-n,0.0707,0.404,,text->text,tools,,,2026-01-19
 Novita AI,GLM-4.6V-N,https://poe.com/glm-4.6v-n,0.303,0.9091,,"text,image->text",tools,,,2025-12-09
