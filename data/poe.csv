@@ -95,6 +95,7 @@ Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
+Novita AI,GLM-5.3,https://poe.com/glm-5.3,1.4141,4.4444,,text->text,tools,,,2026-08-30
 Novita AI,Qwen3.8-27b,https://poe.com/qwen3.8-27b,,,,"text,image,video->text",tools,,,2026-08-27
 Novita AI,Qwen3.8-2.4T-A95B-N,https://poe.com/qwen3.8-2.4t-a95b-n,2.0202,6.0606,,text->text,tools,,,2026-08-27
 Novita AI,GLM-5.3-flash,https://poe.com/glm-5.3-flash,0.1515,0.5051,,"text,image,video->text",tools,,,2026-08-26
