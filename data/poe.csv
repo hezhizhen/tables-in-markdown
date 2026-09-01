@@ -1,6 +1,4 @@
 Provider,Model,Link,Input ($/M),Output ($/M),Request ($/req),Modality,Features,Context Window,Max Output,Created
-Alibaba,Qwen3.7-Plus,https://poe.com/qwen3.7-plus,0.404,1.6162,,"text,image->text",tools,262000,,2026-07-24
-Alibaba,Qwen3.6-Plus,https://poe.com/qwen3.6-plus,0.5051,3.0303,,"text,image->text",tools,1000000,,2026-07-21
 Anthropic,Claude-Opus-4.8,https://poe.com/claude-opus-4.8,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-05-28
 Anthropic,Claude-Opus-4.7,https://poe.com/claude-opus-4.7,4.2929,21.4646,,"text,image->text","web_search, tools",1048576,128000,2026-04-15
 Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"text,image->text","web_search, tools",983040,128000,2026-02-05
@@ -72,7 +70,6 @@ EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 EmpirioLabs AI,Gemini-2.5-Pro-TTS,https://poe.com/gemini-2.5-pro-tts,,,,text->text,,,,2025-09-26
 EmpirioLabs AI,Gemini-2.5-Flash-TTS,https://poe.com/gemini-2.5-flash-tts,,,,text->text,,,,2025-09-23
-EmpirioLabs AI,Mistral-Medium-3.1,https://poe.com/mistral-medium-3.1,0.5253,2.6263,,"text,image->text",tools,,,2025-09-20
 EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,256000,,2025-09-16
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
@@ -95,6 +92,7 @@ Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
+Novita AI,Deepseek-vision-exp,https://poe.com/deepseek-vision-exp,0.4444,1.3333,,"text,image->text",tools,,,2026-08-31
 Novita AI,GLM-5.3,https://poe.com/glm-5.3,1.4141,4.4444,,text->text,tools,,,2026-08-30
 Novita AI,Qwen3.8-27b,https://poe.com/qwen3.8-27b,,,,"text,image,video->text",tools,,,2026-08-27
 Novita AI,Qwen3.8-2.4T-A95B-N,https://poe.com/qwen3.8-2.4t-a95b-n,2.0202,6.0606,,text->text,tools,,,2026-08-27
