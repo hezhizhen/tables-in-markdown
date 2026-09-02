@@ -88,7 +88,6 @@ MiniMax,MiniMax-M2.5,https://poe.com/minimax-m2.5,0.2727,0.9596,,text->text,tool
 MiniMax,MiniMax-M2.7,https://poe.com/minimax-m2.7,0.303,1.2121,,text->text,tools,196000,,2026-07-24
 MiniMax,MiniMax-M3,https://poe.com/minimax-m3,0.303,1.2121,,"text,image->text",tools,512000,,2026-07-22
 Moonshot AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.4747,2.0202,,text->text,tools,216144,,2026-07-24
-Moonshot AI,Kimi-K2.5,https://poe.com/kimi-k2.5,0.6061,3.0303,,"text,image->text",tools,262114,,2026-07-24
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
