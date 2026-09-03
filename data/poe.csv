@@ -73,6 +73,7 @@ EmpirioLabs AI,Gemini-2.5-Flash-TTS,https://poe.com/gemini-2.5-flash-tts,,,,text
 EmpirioLabs AI,Qwen3-Max-EL,https://poe.com/qwen3-max-el,1.0909,5.5758,,text->text,tools,256000,,2025-09-16
 EmpirioLabs AI,Nova-Premier-1.0,https://poe.com/nova-premier-1.0,3.0303,15.1515,,"text,image,video->text",tools,,,2025-09-15
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
+Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-09-02
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
 Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-07-21
