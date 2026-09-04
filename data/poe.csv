@@ -14,6 +14,7 @@ DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,131072,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,128000,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,164000,,2026-07-13
+EmpirioLabs AI,Qwen3.8-Max-0902-EL,https://poe.com/qwen3.8-max-0902-el,2.0202,6.0606,,"text,image,video->text",tools,1000000,,2026-09-02
 EmpirioLabs AI,GLM-5.3-Flash-EL,https://poe.com/glm-5.3-flash-el,0.0758,0.2525,,"text,image,video->text",tools,1000000,,2026-08-26
 EmpirioLabs AI,Qwen3.8-Flash-EL,https://poe.com/qwen3.8-flash-el,0.1616,0.4747,,"text,image,video->text",tools,1000000,,2026-08-26
 EmpirioLabs AI,GLM-5.3-EL,https://poe.com/glm-5.3-el,1.4141,4.4444,,text->text,tools,1000000,,2026-08-19
