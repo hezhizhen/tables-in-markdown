@@ -7,7 +7,6 @@ Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
 Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
-Cartesia AI,Cartesia-Ink-Whisper,https://poe.com/cartesia-ink-whisper,,,,text->text,,,,2025-09-11
 DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,163840,,2026-08-13
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,1048576,,2026-07-30
 DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.1414,0.2828,,text->text,tools,1000000,,2026-07-30
@@ -116,8 +115,6 @@ Novita AI,Qwen3-Max-N,https://poe.com/qwen3-max-n,2.1313,8.5354,,text->text,tool
 Novita AI,DeepSeek-V3.2-Exp,https://poe.com/deepseek-v3.2-exp,,,0.0039,text->text,tools,160000,,2025-09-29
 Novita AI,Qwen3-VL-235B-A22B-T,https://poe.com/qwen3-vl-235b-a22b-t,0.9899,3.9899,,"text,image,video->text",tools,,,2025-09-24
 Novita AI,Qwen3-VL-235B-A22B-I,https://poe.com/qwen3-vl-235b-a22b-i,0.303,1.5152,,"text,image,video->text",tools,,,2025-09-24
-Novita AI,Qwen3-Next-80B-Think,https://poe.com/qwen3-next-80b-think,0.1515,1.5152,,text->text,tools,,,2025-09-11
-Novita AI,Qwen3-Next-80B,https://poe.com/qwen3-next-80b,0.1515,1.5152,,text->text,tools,,,2025-09-11
 OpenAI,GPT-OSS-120B,https://poe.com/gpt-oss-120b,0.1515,0.6061,,text->text,tools,,,2026-07-23
 OpenAI,GPT-5.4-Mini,https://poe.com/gpt-5.4-mini,0.6818,4.0909,,"text,image->text,image","web_search, tools",400000,128000,2026-03-12
 OpenAI,GPT-5.4-Nano,https://poe.com/gpt-5.4-nano,0.1818,1.1364,,"text,image->text,image","web_search, tools",400000,128000,2026-03-11
