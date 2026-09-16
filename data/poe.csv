@@ -5,7 +5,6 @@ Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,,"text,image->text","web_search, tools",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,image->text","web_search, tools",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
-Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,163840,,2026-08-13
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,1048576,,2026-07-30
