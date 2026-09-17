@@ -5,6 +5,7 @@ Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,,"text,image->text","web_search, tools",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,image->text","web_search, tools",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
+Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,163840,,2026-08-13
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,1048576,,2026-07-30
@@ -12,6 +13,7 @@ DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.4444,1.3333,,text
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,131072,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,128000,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,164000,,2026-07-13
+EmpirioLabs AI,DS-V4.1-Flash-EL,https://poe.com/ds-v4.1-flash-el,0.303,1.2121,,"text,image->text",tools,1000000,,2026-09-14
 EmpirioLabs AI,Qwen3.8-Max-0902-EL,https://poe.com/qwen3.8-max-0902-el,2.0202,6.0606,,"text,image,video->text",tools,1000000,,2026-09-02
 EmpirioLabs AI,GLM-5.3-Flash-EL,https://poe.com/glm-5.3-flash-el,0.0758,0.2525,,"text,image,video->text",tools,1000000,,2026-08-26
 EmpirioLabs AI,Qwen3.8-Flash-EL,https://poe.com/qwen3.8-flash-el,0.1616,0.4747,,"text,image,video->text",tools,1000000,,2026-08-26
@@ -136,7 +138,6 @@ Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0.0061,text->text,,,,2
 Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0.003,text->text,,,,2026-05-15
 Together AI,Qwen3.6-Plus-T,https://poe.com/qwen3.6-plus-t,,,0.0061,text->text,,,,2026-04-30
 Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->text,,,,2026-04-24
-Together AI,Gemma-4-31B-T,https://poe.com/gemma-4-31b-t,,,0,text->text,,,,2026-04-09
 XAI,Grok-4.6,https://poe.com/grok-4.6,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-08-11
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
