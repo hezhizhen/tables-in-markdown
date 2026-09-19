@@ -70,7 +70,6 @@ EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,te
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 EmpirioLabs AI,Gemini-2.5-Pro-TTS,https://poe.com/gemini-2.5-pro-tts,,,,text->text,,,,2025-09-26
-EmpirioLabs AI,Gemini-2.5-Flash-TTS,https://poe.com/gemini-2.5-flash-tts,,,,text->text,,,,2025-09-23
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
 Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-09-02
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-08-13
@@ -130,7 +129,6 @@ OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1364,9.0909,,"text,image->text","web_se
 OpenAI,GPT-5-Pro,https://poe.com/gpt-5-pro,13.6364,109.091,,"text,image->text","web_search, tools",400000,128000,2025-10-06
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
 Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
-Poe Tools,Canvas-Creator,https://poe.com/canvas-creator,,,,text->text,,,,2025-09-23
 Tencent,Hy3,https://poe.com/hy3,0.1414,0.5859,,text->text,tools,262144,,2026-07-27
 Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0.0061,text->text,,,,2026-06-13
