@@ -5,7 +5,6 @@ Anthropic,Claude-Sonnet-4.6,https://poe.com/claude-sonnet-4.6,2.5758,12.8788,,"t
 Anthropic,Claude-Opus-4.6,https://poe.com/claude-opus-4.6,4.2929,21.4646,,"text,image->text","web_search, tools",983040,128000,2026-02-04
 Anthropic,Claude-Opus-4.5,https://poe.com/claude-opus-4.5,4.2929,21.4646,,"text,image->text","web_search, tools",196608,64000,2025-11-21
 Anthropic,Claude-Haiku-4.5,https://poe.com/claude-haiku-4.5,0.8586,4.2929,,"text,image->text","web_search, tools",192000,64000,2025-10-15
-Anthropic,Claude-Sonnet-4.5,https://poe.com/claude-sonnet-4.5,2.5758,12.8788,,"text,image->text","web_search, tools",983040,32768,2025-09-26
 Bytedance,Seedream-4.5,https://poe.com/seedream-4.5,,,,text->text,,,,2025-12-03
 DeepSeek,DeepSeek-V3,https://poe.com/deepseek-v3,0.2727,1.1313,,text->text,tools,163840,,2026-08-13
 DeepSeek,DeepSeek-V4-Pro,https://poe.com/deepseek-v4-pro,1.7576,3.5152,,text->text,tools,1048576,,2026-07-30
@@ -13,6 +12,7 @@ DeepSeek,DeepSeek-V4-Flash,https://poe.com/deepseek-v4-flash,0.4444,1.3333,,text
 DeepSeek,DeepSeek-V3.1-Terminus,https://poe.com/deepseek-v3.1-terminus,0.2727,1.0101,,text->text,tools,131072,,2026-07-24
 DeepSeek,DeepSeek-V3.2,https://poe.com/deepseek-v3.2,0.2828,0.4242,,text->text,tools,128000,,2026-07-21
 DeepSeek,DeepSeek-v3.1,https://poe.com/deepseek-v3.1,0.2121,0.798,,text->text,tools,164000,,2026-07-13
+EmpirioLabs AI,Step-5-Preview-EL,https://poe.com/step-5-preview-el,1.0101,2.7273,,"text,image,video->text",tools,1024000,,2026-09-20
 EmpirioLabs AI,DS-V4.1-Flash-EL,https://poe.com/ds-v4.1-flash-el,0.303,1.2121,,"text,image->text",tools,1000000,,2026-09-14
 EmpirioLabs AI,Qwen3.8-Max-0902-EL,https://poe.com/qwen3.8-max-0902-el,2.0202,6.0606,,"text,image,video->text",tools,1000000,,2026-09-02
 EmpirioLabs AI,GLM-5.3-Flash-EL,https://poe.com/glm-5.3-flash-el,0.0758,0.2525,,"text,image,video->text",tools,1000000,,2026-08-26
@@ -69,7 +69,6 @@ EmpirioLabs AI,Qwen3-Max-Preview-EL,https://poe.com/qwen3-max-preview-el,1.0909,
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
-EmpirioLabs AI,Gemini-2.5-Pro-TTS,https://poe.com/gemini-2.5-pro-tts,,,,text->text,,,,2025-09-26
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
 Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-09-02
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text",web_search,1048576,,2026-08-13
@@ -90,6 +89,7 @@ Moonshot AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.4747,2.0202,,tex
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
+Novita AI,Hy4-preview,https://poe.com/hy4-preview,0.8424,2.5263,,text->text,tools,,,2026-09-20
 Novita AI,Deepseek-V4.1-Flash,https://poe.com/deepseek-v4.1-flash,0.303,1.2121,,"text,image->text",tools,,,2026-09-10
 Novita AI,Ling-3.0-flash-VL,https://poe.com/ling-3.0-flash-vl,,,,"text,image,video->text",tools,,,2026-09-09
 Novita AI,Ling-3.0-flash-Fin,https://poe.com/ling-3.0-flash-fin,,,,text->text,tools,,,2026-09-08
@@ -134,6 +134,7 @@ Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0.0061,text->text,,,,2
 Together AI,Pearl-Gemma-4-31B,https://poe.com/pearl-gemma-4-31b,,,0.003,text->text,,,,2026-05-15
 Together AI,Qwen3.6-Plus-T,https://poe.com/qwen3.6-plus-t,,,0.0061,text->text,,,,2026-04-30
 Together AI,DeepSeek-V4-Pro-T,https://poe.com/deepseek-v4-pro-t,,,0.015,text->text,,,,2026-04-24
+XAI,Grok-4.7,https://poe.com/grok-4.7,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-09-21
 XAI,Grok-4.6,https://poe.com/grok-4.6,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-08-11
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
@@ -148,4 +149,3 @@ fal,Qwen-Image-2-Pro,https://poe.com/qwen-image-2-pro,,,,text->text,,,,2026-03-0
 fal,Qwen-Image-2,https://poe.com/qwen-image-2,,,,text->text,,,,2026-03-05
 fal,Pika-v1.5-Effects,https://poe.com/pika-v1.5-effects,,,,text->text,,,,2025-12-12
 fal,Kling-2.5-Turbo-Std,https://poe.com/kling-2.5-turbo-std,,,,"text,image->text",,,,2025-10-22
-fal,Kling-Avatar-Pro,https://poe.com/kling-avatar-pro,,,,"text,image,audio->text",,,,2025-09-26
