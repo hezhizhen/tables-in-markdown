@@ -140,7 +140,7 @@ XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_sea
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
 Xiaomi,MiMo-V2.5-Pro,https://poe.com/mimo-v2.5-pro,1.0101,3.0303,,text->text,tools,1048576,,2026-07-27
-Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,204800,,2026-07-27
+Z.ai,GLM-4.6,https://poe.com/glm-4.6,0.6061,2.2222,,text->text,tools,202752,,2026-07-27
 Z.ai,GLM-4.7,https://poe.com/glm-4.7,0.6061,2.2222,,text->text,tools,200000,,2026-07-27
 Z.ai,GLM-5,https://poe.com/glm-5,1.0101,3.2323,,text->text,tools,202800,,2026-07-27
 Z.ai,GLM-5.1,https://poe.com/glm-5.1,1.4141,4.4444,,text->text,tools,202000,,2026-07-27
