@@ -90,6 +90,8 @@ Moonshot AI,Kimi-K2-Thinking,https://poe.com/kimi-k2-thinking,0.4747,2.0202,,tex
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K2.7-Code,https://poe.com/kimi-k2.7-code,0.9596,4.0404,,"text,image->text",tools,256000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
+Novita AI,Mimo-V2.6-Pro,https://poe.com/mimo-v2.6-pro,0.4394,0.8788,,"text,image,video,audio->text",tools,,,2026-10-01
+Novita AI,Mimo-V2.6-Flash,https://poe.com/mimo-v2.6-flash,0.1414,0.2828,,"text,image,video,audio->text",tools,,,2026-10-01
 Novita AI,Hy4-preview,https://poe.com/hy4-preview,0.8424,2.5263,,text->text,tools,,,2026-09-20
 Novita AI,Deepseek-V4.1-Flash,https://poe.com/deepseek-v4.1-flash,0.303,1.2121,,"text,image->text",tools,,,2026-09-10
 Novita AI,Ling-3.0-flash-VL,https://poe.com/ling-3.0-flash-vl,,,,"text,image,video->text",tools,,,2026-09-09
@@ -124,9 +126,7 @@ OpenAI,GPT-5.3-Codex,https://poe.com/gpt-5.3-codex,1.5909,12.7273,,"text,image->
 OpenAI,GPT-5.2-Pro,https://poe.com/gpt-5.2-pro,19.0909,152.727,,"text,image->text","web_search, tools",400000,128000,2025-12-11
 OpenAI,GPT-5.2,https://poe.com/gpt-5.2,1.5909,12.7273,,"text,image->text","web_search, tools",400000,128000,2025-12-08
 OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1364,9.0909,,"text,image->text","web_search, tools",400000,128000,2025-11-12
-OpenAI,GPT-5-Pro,https://poe.com/gpt-5-pro,13.6364,109.091,,"text,image->text","web_search, tools",400000,128000,2025-10-06
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
-Poe Tools,Script-Bot-Creator,https://poe.com/script-bot-creator,,,,text->text,,,,2025-10-06
 Tencent,Hy3,https://poe.com/hy3,0.1414,0.5859,,text->text,tools,262144,,2026-07-27
 Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0.0061,text->text,,,,2026-06-13
