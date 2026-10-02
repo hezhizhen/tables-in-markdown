@@ -100,28 +100,47 @@
         return null;
     }
 
-    function parseCsvRow(rowString) {
+    function parseCSV(text) {
+        text = text.replace(/^\uFEFF/, '');
+        var rows = [];
         var cells = [];
         var inQuotes = false;
         var currentCell = '';
-        for (var i = 0; i < rowString.length; i++) {
-            var char = rowString[i];
+        var rowStarted = false;
+        for (var i = 0; i < text.length; i++) {
+            var char = text[i];
             if (char === '"') {
-                if (inQuotes && i + 1 < rowString.length && rowString[i + 1] === '"') {
+                rowStarted = true;
+                if (inQuotes && text[i + 1] === '"') {
                     currentCell += '"';
                     i++;
                 } else {
                     inQuotes = !inQuotes;
                 }
             } else if (char === ',' && !inQuotes) {
-                cells.push(currentCell.trim());
+                cells.push(currentCell);
                 currentCell = '';
+                rowStarted = true;
+            } else if ((char === '\n' || char === '\r') && !inQuotes) {
+                if (rowStarted) {
+                    cells.push(currentCell);
+                    rows.push(cells);
+                }
+                cells = [];
+                currentCell = '';
+                rowStarted = false;
+                if (char === '\r' && text[i + 1] === '\n') i++;
             } else {
                 currentCell += char;
+                rowStarted = true;
             }
         }
-        cells.push(currentCell.trim());
-        return cells;
+        if (inQuotes) throw new Error('Unterminated quoted CSV field');
+        if (rowStarted) {
+            cells.push(currentCell);
+            rows.push(cells);
+        }
+        return rows;
     }
 
     // ── Table Rendering ─────────────────────────────────────
@@ -334,17 +353,11 @@
                 throw new Error('HTTP ' + response.status + ' for ' + fileName);
             }
             var csvText = await response.text();
-            var allRows = csvText.trim().split('\n');
+            var allRows = parseCSV(csvText);
             if (allRows.length > 0) {
-                originalData.headers = parseCsvRow(allRows[0]);
+                originalData.headers = allRows[0];
                 var nextId = 0;
                 originalData.rows = allRows.slice(1)
-                    .map(function (r) {
-                        return parseCsvRow(r);
-                    })
-                    .filter(function (cells) {
-                        return cells.length > 1 || (cells.length === 1 && cells[0] !== '');
-                    })
                     .map(function (cells) {
                         return {id: nextId++, cells: cells};
                     });

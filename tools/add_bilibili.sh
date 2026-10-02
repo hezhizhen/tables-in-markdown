@@ -88,7 +88,7 @@ if [ $yt_dlp_title_status -ne 0 ]; then
 fi
 
 # 移除标题中可能存在的 ANSI 转义序列 (虽然 yt-dlp 通常不输出这个，但以防万一)
-title=$(echo "$title" | sed $'s/\x1b\\[[0-9;]*m//g')
+title=$(printf '%s\n' "$title" | sed $'s/\x1b\\[[0-9;]*m//g')
 log_info "✅ 成功获取标题: $title"
 
 # 获取上传日期 (格式 YYYYMMDD)
@@ -130,19 +130,24 @@ log_info "标签: $tags"
 # 步骤 3: 生成CSV格式并写入文件
 log_info "开始生成CSV格式并写入文件..."
 
-# 处理标题中可能包含的逗号，确保CSV格式正确
-csv_line="\"$title\",$url,$uploaded,$tags"
-log_debug "生成的CSV行: $csv_line"
-
 # 检查bilibili.csv文件是否存在
-if [ ! -f "data/bilibili.csv" ]; then
-    log_debug "data/bilibili.csv不存在，创建新文件并添加标题行"
-    echo "Title,URL,Uploaded,Tags" >data/bilibili.csv
+if [ ! -s "data/bilibili.csv" ]; then
+    log_debug "data/bilibili.csv不存在或为空，添加标题行"
+    printf 'Title,URL,Uploaded,Tags\n' >data/bilibili.csv
+else
+    # CSV 的最后一条记录可以没有换行；追加前补齐记录分隔符。
+    csv_last_byte=$(tail -c 1 data/bilibili.csv)
+    if [[ -n "$csv_last_byte" && "$csv_last_byte" != $'\r' ]]; then
+        printf '\n' >>data/bilibili.csv
+    fi
 fi
 
 # 写入到bilibili.csv文件的末尾
 log_debug "写入数据到 data/bilibili.csv"
-echo "$csv_line" >>data/bilibili.csv
+# 四列统一加引号，字段内的双引号写成两个双引号。
+printf '"%s","%s","%s","%s"\n' \
+    "${title//\"/\"\"}" "${url//\"/\"\"}" \
+    "${uploaded//\"/\"\"}" "${tags//\"/\"\"}" >>data/bilibili.csv
 write_status=$?
 
 if [ $write_status -eq 0 ]; then
