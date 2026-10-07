@@ -73,6 +73,7 @@ EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,te
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 Fireworks AI,Minimax-M2.7-FW,https://poe.com/minimax-m2.7-fw,,,0.0061,text->text,tools,196608,,2026-04-16
+Google,Nano-Banana-2.1,https://poe.com/nano-banana-2.1,1.5152,7.5758,,"text,image->text,image",,,,2026-10-06
 Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-09-02
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
