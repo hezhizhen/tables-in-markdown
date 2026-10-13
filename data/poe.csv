@@ -79,6 +79,7 @@ Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,im
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
+Meta,Muse-Wonder-1.0,https://poe.com/muse-wonder-1.0,4.0404,20.202,,"text,image->text",tools,1048576,,2026-10-12
 Meta,Muse-Spark-1.1,https://poe.com/muse-spark-1-1,1.2626,4.2929,,"text,image->text",tools,1048576,,2026-07-09
 MiniMax,MiniMax-M2.1,https://poe.com/minimax-m2.1,0.303,1.2121,,text->text,tools,204800,,2026-07-24
 MiniMax,MiniMax-M2.5,https://poe.com/minimax-m2.5,0.303,1.2121,,text->text,tools,196608,,2026-07-24
