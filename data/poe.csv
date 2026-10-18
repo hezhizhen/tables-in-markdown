@@ -142,4 +142,3 @@ Z.ai,GLM-5.2,https://poe.com/glm-5.2,1.5152,4.5455,,text->text,tools,256000,,202
 fal,Qwen-Image-2-Pro,https://poe.com/qwen-image-2-pro,,,,text->text,,,,2026-03-05
 fal,Qwen-Image-2,https://poe.com/qwen-image-2,,,,text->text,,,,2026-03-05
 fal,Pika-v1.5-Effects,https://poe.com/pika-v1.5-effects,,,,text->text,,,,2025-12-12
-fal,Kling-2.5-Turbo-Std,https://poe.com/kling-2.5-turbo-std,,,,"text,image->text",,,,2025-10-22
