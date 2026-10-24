@@ -73,7 +73,6 @@ EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,32000,,2025-
 EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
 EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
-EmpirioLabs AI,Manus,https://poe.com/manus,,,,text->text,,,,2025-10-28
 Google,Gemma-4-31B-Vercel,https://poe.com/gemma-4-31b-vercel,0.1515,0.404,,"text,image->text",tools,262144,,2026-10-22
 Google,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1515,0.6061,,"text,image->text",,262144,,2026-10-21
 Google,Nano-Banana-2.1,https://poe.com/nano-banana-2.1,1.5152,7.5758,,"text,image->text,image",,,,2026-10-06
@@ -96,6 +95,7 @@ MiniMax,MiniMax-M2.1,https://poe.com/minimax-m2.1,0.303,1.2121,,text->text,tools
 MiniMax,MiniMax-M2.5,https://poe.com/minimax-m2.5,0.303,1.2121,,text->text,tools,196608,,2026-07-24
 MiniMax,MiniMax-M3,https://poe.com/minimax-m3,0.303,1.2121,,"text,image->text",tools,512000,,2026-07-22
 Mistral,Mistral-Large-4,https://poe.com/mistral-large-4,1.3737,4.2222,,"text,image->text",tools,524288,,2026-10-07
+Moonshot AI,Kimi-K3.1-Pro,https://poe.com/kimi-k3.1-pro,2.0202,10.101,,"text,image->text",tools,1048576,,2026-10-23
 Moonshot AI,Kimi-K2.6,https://poe.com/kimi-k2.6,0.9596,4.0404,,"text,image->text",tools,262000,,2026-07-24
 Moonshot AI,Kimi-K3,https://poe.com/kimi-k3,3.0303,15.1515,,"text,image->text",tools,1000000,,2026-07-17
 OpenAI,GPT-OSS-20B,https://poe.com/gpt-oss-20b,0.0303,0.1414,,text->text,tools,131072,,2026-10-21
