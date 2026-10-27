@@ -72,7 +72,6 @@ EmpirioLabs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,,"text,imag
 EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,32000,,2025-11-26
 EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
-EmpirioLabs AI,GPTZero,https://poe.com/gptzero,,,,text->text,,,,2025-10-31
 Google,Gemma-4-31B-Vercel,https://poe.com/gemma-4-31b-vercel,0.1515,0.404,,"text,image->text",tools,262144,,2026-10-22
 Google,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1515,0.6061,,"text,image->text",,262144,,2026-10-21
 Google,Nano-Banana-2.1,https://poe.com/nano-banana-2.1,1.5152,7.5758,,"text,image->text,image",,,,2026-10-06
