@@ -75,9 +75,9 @@ Google,Gemma-4-31B-Vercel,https://poe.com/gemma-4-31b-vercel,0.1515,0.404,,"text
 Google,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1515,0.6061,,"text,image->text",,262144,,2026-10-21
 Google,Nano-Banana-2.1,https://poe.com/nano-banana-2.1,1.5152,7.5758,,"text,image->text,image",,,,2026-10-06
 Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-09-02
-Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-08-13
+Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
-Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
+Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
 Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,image,video->text",tools,1048576,65536,2026-05-19
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
@@ -118,7 +118,7 @@ XAI,Grok-4.7,https://poe.com/grok-4.7,2.0202,6.0606,,"text,image->text","web_sea
 XAI,Grok-4.6,https://poe.com/grok-4.6,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-08-11
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
-XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,1.2626,2.5253,,"text,image->text",tools,128000,,2026-03-13
+XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,2.0202,6.0606,,"text,image->text",tools,128000,,2026-03-13
 Z.ai,GLM-5.3-Fast,https://poe.com/glm-5.3-fast,2.8283,8.8889,,text->text,tools,1000000,,2026-10-22
 Z.ai,GLM-5.3-Flash,https://poe.com/glm-5.3-flash,0.1515,0.5051,,"text,image->text",tools,1000000,,2026-10-21
 Z.ai,GLM-5.3,https://poe.com/glm-5.3,1.697,5.3333,,text->text,tools,1000000,,2026-10-21
