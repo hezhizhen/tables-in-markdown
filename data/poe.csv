@@ -107,7 +107,6 @@ OpenAI,GPT-5.2-Pro,https://poe.com/gpt-5.2-pro,19.0909,152.727,,"text,image->tex
 OpenAI,GPT-5.2,https://poe.com/gpt-5.2,1.5909,12.7273,,"text,image->text","web_search, tools",400000,128000,2025-12-08
 OpenAI,GPT-5.1,https://poe.com/gpt-5.1,1.1364,9.0909,,"text,image->text","web_search, tools",400000,128000,2025-11-12
 Poe Tools,Claude-Code,https://poe.com/claude-code,,,,text->text,,,,2025-11-27
-Tencent,Hy3,https://poe.com/hy3,0.1414,0.5859,,text->text,tools,262144,,2026-07-27
 Thinking Machines,Inkling,https://poe.com/inkling,1.0101,4.0909,,"text,image->text",,256000,,2026-07-15
 Together AI,MiniMax-M3-T,https://poe.com/minimax-m3-t,,,0.0061,text->text,,,,2026-06-13
 Together AI,Qwen3.7-Max-T,https://poe.com/qwen3.7-max-t,,,0.0061,text->text,,,,2026-05-22
