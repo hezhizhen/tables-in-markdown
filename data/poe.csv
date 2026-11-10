@@ -84,6 +84,7 @@ Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image
 Google,Gemini-3.1-Flash-Lite,https://poe.com/gemini-3.1-flash-lite,0.2525,1.5152,,"text,image,video,audio->text",tools,1048576,65536,2026-02-18
 Inception Labs,Mercury-3-Vercel,https://poe.com/mercury-3-vercel,0.101,0.3535,,text->text,tools,1000000,,2026-10-22
 InclusionAI,Ling-3.0-Flash-Fin,https://poe.com/ling-3.0-flash-fin,0.0606,0.1818,,text->text,tools,256000,,2026-10-21
+Meta,Muse-Ember,https://poe.com/muse-ember,0.101,0.5051,,"text,image->text",tools,1048576,,2026-11-09
 Meta,Llama-4-Maverick,https://poe.com/llama-4-maverick,0.2424,0.9798,,"text,image->text",,128000,,2026-10-21
 Meta,Llama-3.3-70B,https://poe.com/llama-3.3-70b,0.7273,0.7273,,text->text,,128000,,2026-10-21
 Meta,Muse-Spark-Open,https://poe.com/muse-spark-open,1.2626,4.2929,,"text,image->text",tools,1048576,,2026-10-15
