@@ -118,6 +118,7 @@ XAI,Grok-4.6,https://poe.com/grok-4.6,2.0202,6.0606,,"text,image->text","web_sea
 XAI,Grok-4.5,https://poe.com/grok-4.5,2.0202,6.0606,,"text,image->text","web_search, tools",500000,,2026-07-07
 XAI,Grok-4.3,https://poe.com/grok-4.3,1.2626,2.5253,,"text,image->text",tools,1000000,,2026-05-01
 XAI,Grok-4.20-Multi-Agent,https://poe.com/grok-4.20-multi-agent,2.0202,6.0606,,"text,image->text",tools,128000,,2026-03-13
+Xiaomi,MiMo-V2.6-Flash,https://poe.com/mimo-v2.6-flash,0.1343,0.2687,,"text,image,video,audio->text",tools,1048576,,2026-10-21
 Z.ai,GLM-5.3-Fast,https://poe.com/glm-5.3-fast,2.8283,8.8889,,text->text,tools,1000000,,2026-10-22
 Z.ai,GLM-5.3-Flash,https://poe.com/glm-5.3-flash,0.1515,0.5051,,"text,image->text",tools,1000000,,2026-10-21
 Z.ai,GLM-5.3,https://poe.com/glm-5.3,1.697,5.3333,,text->text,tools,1000000,,2026-10-21
