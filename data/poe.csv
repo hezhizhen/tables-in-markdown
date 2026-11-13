@@ -71,13 +71,13 @@ EmpirioLabs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,,"text,imag
 EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,32000,,2025-11-26
 EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
 EmpirioLabs AI,Perplexity-Pro-Search,https://poe.com/perplexity-pro-search,,,,text->text,,,,2025-11-21
+Google,Gemini-4-Hydrogen,https://poe.com/gemini-4-hydrogen,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-11-12
 Google,Gemma-4-31B-Vercel,https://poe.com/gemma-4-31b-vercel,0.1515,0.404,,"text,image->text",tools,262144,,2026-10-22
 Google,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1515,0.6061,,"text,image->text",,262144,,2026-10-21
 Google,Nano-Banana-2.1,https://poe.com/nano-banana-2.1,1.5152,7.5758,,"text,image->text,image",,,,2026-10-06
 Google,Gemini-3.8-Flash,https://poe.com/gemini-3.8-flash,0.7576,3.7879,,"text,image,video,audio->text","web_search, tools",1048576,,2026-09-02
 Google,Gemini-3.7-Flash,https://poe.com/gemini-3.7-flash,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-08-13
 Google,Gemini-3.5-Flash-Lite,https://poe.com/gemini-3.5-flash-lite,0.303,2.5253,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
-Google,Gemini-3.6-Flash,https://poe.com/gemini-3.6-flash,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-07-21
 Google,Gemini-3.5-Flash,https://poe.com/gemini-3.5-flash,1.5152,9.0909,,"text,image,video->text",tools,1048576,65536,2026-05-19
 Google,Gemma-4-31B,https://poe.com/gemma-4-31b,,,0,"text,image->text",tools,262144,8192,2026-04-02
 Google,Gemini-3.1-Pro,https://poe.com/gemini-3.1-pro,2.0202,12.1212,,"text,image,video,audio->text",tools,1048576,65536,2026-02-19
