@@ -73,8 +73,6 @@ EmpirioLabs AI,Seed-2.0-Mini,https://poe.com/seed-2.0-mini,0.1263,0.5051,,"text,
 EmpirioLabs AI,Qwen3.5-Plus-EL,https://poe.com/qwen3.5-plus-el,0.3636,2.2303,,"text,image,video->text",tools,1000000,,2026-02-16
 EmpirioLabs AI,Perplexity-Adv-Deep-Research,https://poe.com/perplexity-adv-deep-research,,,,text->text,,,,2026-02-11
 EmpirioLabs AI,Nova-Lite-2,https://poe.com/nova-lite-2,0.3838,3.1919,,"text,image,video->text",tools,,,2025-12-04
-EmpirioLabs AI,Exa-Answer,https://poe.com/exa-answer,,,,text->text,,32000,,2025-11-26
-EmpirioLabs AI,Exa-Search,https://poe.com/exa-search,,,,text->text,,,,2025-11-26
 Google,Gemini-4-Hydrogen,https://poe.com/gemini-4-hydrogen,1.5152,7.5758,,"text,image,video,audio->text","web_search, tools",1048576,,2026-11-12
 Google,Gemma-4-31B-Vercel,https://poe.com/gemma-4-31b-vercel,0.1515,0.404,,"text,image->text",tools,262144,,2026-10-22
 Google,Gemma-4-26B-A4B,https://poe.com/gemma-4-26b-a4b,0.1515,0.6061,,"text,image->text",,262144,,2026-10-21
